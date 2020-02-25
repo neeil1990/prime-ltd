@@ -3,6 +3,8 @@ wp-config.php
 wp-config-sample.php
 wp-content/uploads/*
 wp-content/cache/*
+wp-content/1plugins/*
+wp-content/2plugins/*
 .cache
 .htaccess
 robots.txt
