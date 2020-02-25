@@ -1,0 +1,9 @@
+.idea
+wp-config.php
+wp-config-sample.php
+wp-content/uploads
+.cache
+.htaccess
+robots.txt
+sitemap.xml
+*.log
