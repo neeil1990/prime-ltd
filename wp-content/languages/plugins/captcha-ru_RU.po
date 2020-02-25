@@ -1,0 +1,996 @@
+# Translation of Plugins - Captcha - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Captcha - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-26 12:36:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Captcha - Stable (latest release)\n"
+
+#: includes/class-hctpc-whitelist.php:396
+msgid "Some errors occurred."
+msgstr "Возникли некоторые ошибки."
+
+#. #-#-#-#-#  captcha-code.pot (Captcha 4.3.4)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  captcha-code.pot (Captcha 4.3.4)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/plugins/captcha/"
+msgstr "https://wordpress.org/plugins/captcha/"
+
+#: includes/class-hctpc-whitelist.php:348
+msgid "Filter"
+msgstr "Применить фильтр"
+
+#: includes/class-hctpc-whitelist.php:244
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/class-hctpc-whitelist.php:127
+msgid "Search item"
+msgstr "Поиск"
+
+#: includes/class-hctpc-whitelist.php:104
+msgid "IP to whitelist"
+msgstr "IP в белый список"
+
+#: includes/class-hctpc-whitelist.php:47
+msgid "Last year"
+msgstr "Последний год"
+
+#: includes/class-hctpc-whitelist.php:46
+msgid "Last month"
+msgstr "Последний месяц"
+
+#: includes/class-hctpc-whitelist.php:45
+msgid "Last week"
+msgstr "Последняя неделя"
+
+#: includes/class-hctpc-whitelist.php:44
+msgid "Last 24 hours"
+msgstr "Последние 24 часа"
+
+#: includes/class-hctpc-whitelist.php:43
+msgid "All dates"
+msgstr "Всё время"
+
+#: includes/class-hctpc-settings-tabs.php:634
+msgid "This message will be displayed instead of the captcha field."
+msgstr "Это сообщение будет отображено вместо поля CAPTCHA."
+
+#: includes/class-hctpc-settings-tabs.php:633
+msgid "Your IP address is Whitelisted."
+msgstr "Ваш IP находится в белом списке."
+
+#: includes/class-hctpc-settings-tabs.php:632
+msgid "Whitelisted IP"
+msgstr "IP в белом списке"
+
+#: includes/class-hctpc-settings-tabs.php:629
+msgid "This message will be displayed above the captcha field."
+msgstr "Это сообщение будет отображено над полем Captcha."
+
+#: includes/class-hctpc-settings-tabs.php:624
+#: includes/class-hctpc-settings-tabs.php:628
+msgid "Time limit exceeded. Please complete the captcha once again."
+msgstr "Достигнут лимит времени. Пожалуйста, введите CAPTCHA снова."
+
+#: includes/class-hctpc-settings-tabs.php:623
+#: includes/class-hctpc-settings-tabs.php:627
+msgid "Time Limit Exceeded"
+msgstr "Превышен лимит времени"
+
+#: includes/class-hctpc-settings-tabs.php:620
+msgid "Please enter correct captcha value."
+msgstr "Пожалуйста, введите правильное значение CAPTCHA."
+
+#: includes/class-hctpc-settings-tabs.php:619
+msgid "Captcha is Incorrect"
+msgstr "Captcha заполнена некорректно"
+
+#: includes/class-hctpc-settings-tabs.php:616
+msgid "Please complete the captcha."
+msgstr "Пожалуйста, заполните CAPTCHA."
+
+#: includes/class-hctpc-settings-tabs.php:615
+msgid "Captcha Field is Empty"
+msgstr "Пустое поле Captcha"
+
+#: includes/class-hctpc-settings-tabs.php:610
+msgid "Messages Settings"
+msgstr "Настройки Уведомлений"
+
+#: includes/class-hctpc-settings-tabs.php:555
+msgid "sec"
+msgstr "сек."
+
+#: includes/class-hctpc-settings-tabs.php:552
+msgid "Time Limit Thershold"
+msgstr "Временной лимит"
+
+#: includes/class-hctpc-settings-tabs.php:545
+msgid "Time Limit"
+msgstr "Временное ограничение"
+
+#: includes/class-hctpc-settings-tabs.php:534
+msgid "Enable to activate a time limit requeired to complete captcha."
+msgstr "Включите, чтобы активировать временное ограничение на ввод Captcha."
+
+#: includes/class-hctpc-settings-tabs.php:458
+msgid "Enable Captcha for"
+msgstr "Включить Captcha для"
+
+#: includes/class-hctpc-settings-tabs.php:455
+msgid "General"
+msgstr "Общие настройки"
+
+#: includes/class-hctpc-settings-tabs.php:450
+msgid "Enable to display captcha when the website page is loaded."
+msgstr "Включите, чтобы отображать Captcha после того, как страница сайта была загружена."
+
+#: includes/class-hctpc-settings-tabs.php:449
+msgid "Advanced Protection"
+msgstr "Продвинутая защита"
+
+#: includes/class-hctpc-settings-tabs.php:443
+msgid "Captcha Title"
+msgstr "Заголовок Captcha"
+
+#: includes/class-hctpc-settings-tabs.php:440
+msgid "Enable to display reload button for captcha."
+msgstr "Включить отображение кнопки перезагрузки для Captcha."
+
+#: includes/class-hctpc-settings-tabs.php:439
+msgid "Reload Button"
+msgstr "Кнопка перезагрузки"
+
+#: includes/class-hctpc-settings-tabs.php:434
+msgid "Enable to enlarge captcha images on mouseover."
+msgstr "Включить увеличение изображений при наведении."
+
+#: includes/class-hctpc-settings-tabs.php:433
+msgid "Enlarge Images"
+msgstr "Увеличение изображений"
+
+#: includes/class-hctpc-settings-tabs.php:423
+msgid "Set a number of images to display simultaneously as a captcha question."
+msgstr "Укажите количество изображений отображаемых одновременно."
+
+#: includes/class-hctpc-settings-tabs.php:420
+msgid "Number of Images"
+msgstr "Количество изображений"
+
+#: includes/class-hctpc-settings-tabs.php:413
+msgid "Words (one, two, three, etc.)"
+msgstr "Слова (один, два, три и т.д.)"
+
+#: includes/class-hctpc-settings-tabs.php:412
+msgid "Numbers (1, 2, 3, etc.)"
+msgstr "Цифры (1, 2, 3 и т.д.)"
+
+#: includes/class-hctpc-settings-tabs.php:403
+msgid "Subtruction"
+msgstr "Вычитание"
+
+#: includes/class-hctpc-settings-tabs.php:402
+msgid "Addition"
+msgstr "Сложение"
+
+#: includes/class-hctpc-settings-tabs.php:395
+msgid "Optical Character Recognition (OCR)"
+msgstr "Визуальное распознавание символов"
+
+#: includes/class-hctpc-settings-tabs.php:324
+msgid "Text fields in the \"Messages\" tab must not be empty."
+msgstr "Текстовые поля в блоке настроек \"Уведомления\" не должны быть пустыми."
+
+#: includes/class-hctpc-settings-tabs.php:310
+#: includes/class-hctpc-settings-tabs.php:428
+msgid "Image Packages"
+msgstr "Пакеты Изображений"
+
+#: includes/class-hctpc-settings-tabs.php:308
+#: includes/class-hctpc-settings-tabs.php:400
+msgid "Arithmetic Actions"
+msgstr "Арифметические действия"
+
+#: includes/class-hctpc-settings-tabs.php:51
+msgid "Forgot password form"
+msgstr "Форма восстановления пароля"
+
+#: includes/class-hctpc-settings-tabs.php:41
+msgid "Misc"
+msgstr "Разное"
+
+#: includes/class-hctpc-settings-tabs.php:40
+msgid "Messages"
+msgstr "Уведомления"
+
+#: includes/class-hctpc-package-list.php:120
+msgid "No packages found"
+msgstr "Пакеты не найдены"
+
+#: includes/class-hctpc-package-list.php:98
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/class-hctpc-package-list.php:39
+msgid "packages"
+msgstr "пакеты"
+
+#: includes/class-hctpc-package-list.php:38
+msgid "package"
+msgstr "пакет"
+
+#: includes/class-hctpc-whitelist.php:78
+msgid "Captcha Whitelist"
+msgstr "Белый Список Captcha"
+
+#: includes/class-hctpc-package-list.php:91
+msgid "Captcha Packages"
+msgstr "Пакеты Captcha"
+
+#: includes/class-hctpc-settings-tabs.php:392
+msgid "Captcha Type"
+msgstr "Тип"
+
+#: includes/class-hctpc-settings-tabs.php:363
+msgid "In order to use \"Optical Character Recognition\" type, please select at least one of the items in the option \"Image Packages\"."
+msgstr "Для того, чтобы использовать тип \"Визуальное распознавание символов\", пожалуйста, выберите как минимум один элемент в блоке настроек \"Пакеты изображений\"."
+
+#: includes/class-hctpc-settings-tabs.php:289
+msgid "This will restore plugin settings to defaults."
+msgstr "Восстановить все настройки плагина к настройкам по умолчанию."
+
+#: includes/class-hctpc-settings-tabs.php:288
+msgid "Restore Settings"
+msgstr "Восстановить настройки"
+
+#: includes/class-hctpc-settings-tabs.php:286
+msgid "Default Settings"
+msgstr "Настройки по умолчанию"
+
+#: includes/class-hctpc-settings-tabs.php:282
+msgid "Miscellaneous Settings"
+msgstr "Прочие настройки"
+
+#: includes/class-hctpc-settings-tabs.php:143
+msgid "Version"
+msgstr "Версия"
+
+#: includes/class-hctpc-settings-tabs.php:137
+msgid "Information"
+msgstr "Информация"
+
+#: includes/class-hctpc-settings-tabs.php:118
+msgid "Are you sure you want to restore default settings?"
+msgstr "Вы уверены что хотите восстановить все настройки плагина к настройкам по умолчанию?"
+
+#: includes/class-hctpc-package-loader.php:131
+msgid "One image has been updated or added to the database."
+msgid_plural "%s images have been updated or added to the database."
+msgstr[0] "Одно изображение было добавлено или обновлено в базе данных."
+msgstr[1] "%s изображения были добавлены или обновлены в базе данных."
+msgstr[2] "%s изображений были добавлены или обновлены в базе данных."
+
+#: includes/class-hctpc-package-loader.php:130
+msgid "One package has been updated or added to the database."
+msgid_plural "%s packages have been updated or added to the database."
+msgstr[0] "Один пакет был добавлен или обновлен в базе данных."
+msgstr[1] "%s пакета были добавлены или обновлены в базе данных."
+msgstr[2] "%s пакетов были добавлены или обновлены в базе данных."
+
+#: captcha.php:1806
+msgid "You're using W3 Total Cache plugin. If %1$s doesn't work properly, please clear the cache in W3 Total Cache plugin and turn on '%2$s' option on the plugin %3$s."
+msgstr "Вы используете плагин W3 Total Cache. Если %1$s работает некорректно, пожалуйста очистите кэш в плагине W3 Total Cache и включите опцию \"%2$s\" на %3$s плагина."
+
+#: captcha.php:1803
+msgid "settings page"
+msgstr "странице настроек"
+
+#: includes/class-hctpc-whitelist.php:182
+msgid "No IP in the whitelist"
+msgstr "Список IP пустой"
+
+#: includes/class-hctpc-settings-tabs.php:742
+msgid "The image packages list is empty. Please restore default settings or re-install the plugin to fix this error."
+msgstr "Список пакетов изображений пустой. Пожалуйста, восстановите настройки по умолчанию или переустановите плагин для исправления этой ошибки."
+
+#: includes/class-hctpc-settings-tabs.php:586
+msgid "This option is available only for network or for main blog"
+msgstr "Эта опция доступна только для сетевых настроек или главного блога"
+
+#: includes/class-hctpc-settings-tabs.php:404
+msgid "Multiplication"
+msgstr "Умножение"
+
+#: captcha.php:1808
+msgid "Show CAPTCHA after the end of the page loading"
+msgstr "Отображать CAPTCHA после окончания загрузки страницы"
+
+#: includes/class-hctpc-settings-tabs.php:366
+msgid "In order to use images in the CAPTCHA, please select at least one of the items in the option \"Image Packages\". The \"Images\" checkbox in \"Complexity\" option has been disabled."
+msgstr "Для того, чтобы использовать изображения в CAPTCHA, пожалуйста, выберите как минимум один элемент в блоке настроек \"Пакеты изображений\". Пункт \"Изображения\" в блоке опций \"Сложность\" отключен."
+
+#: includes/class-hctpc-settings-tabs.php:335
+msgid "\"%s\" option must not be fully disabled."
+msgstr "Опция \"%s\"  не должна быть полностью отключена."
+
+#: includes/class-hctpc-settings-tabs.php:593
+msgid "Hide from Registered Users"
+msgstr "Скрыть от зарегистрированных пользователей"
+
+#: includes/class-hctpc-package-loader.php:588
+msgid "Wrong data"
+msgstr "Неправильные данные"
+
+#: includes/class-hctpc-package-loader.php:585
+msgid "Some settings of the package %s were set incorrectly. They have been skipped."
+msgstr "Некоторые настройки пакета %s были установлены неправильно. Они были пропущены."
+
+#: includes/class-hctpc-package-loader.php:239
+msgid "Archive is empty"
+msgstr "Архив пустой"
+
+#: captcha.php:1977
+msgid "You need to update this plugin for correct work with"
+msgstr "Вам необходимо обновить этот плагин для корректной работы с"
+
+#: captcha.php:1970
+msgid "has compatibility problems with"
+msgstr "имеет проблемы совместимости с"
+
+#: captcha.php:1967
+msgid "has old version"
+msgstr "имеет устаревшую версию"
+
+#: captcha.php:1964
+msgid "after"
+msgstr "после"
+
+#: captcha.php:1964
+msgid "in the future"
+msgstr "в будущем"
+
+#: captcha.php:1963
+msgid "plugin contains deprecated functionality that will be removed"
+msgstr "содержит устаревший функционал, который будет удален"
+
+#: captcha.php:1959
+msgid "Warning"
+msgstr "Внимание"
+
+#: captcha.php:1059
+msgid "In order to pass the CAPTCHA please enable JavaScript"
+msgstr "Для того, чтобы пройти тест CAPTCHA включите JavaScript"
+
+#: captcha.php:496 captcha.php:518
+msgid "Date"
+msgstr "Дата"
+
+#: captcha.php:493 captcha.php:515 includes/class-hctpc-package-list.php:130
+msgid "Package"
+msgstr "Пакет"
+
+#: captcha.php:442
+msgid "Packages"
+msgstr "Пакеты"
+
+#: captcha.php:442
+msgid "This setting is available in Pro version"
+msgstr "Эта опция доступна только для Pro-версии плагина"
+
+#: includes/helpers.php:34
+msgid "Time limit is exhausted. Please reload the CAPTCHA."
+msgstr "Лимит времени истёк. Пожалуйста, перезагрузите CAPTCHA."
+
+#: includes/class-hctpc-whitelist.php:412
+msgid "%s IP was deleted successfully"
+msgid_plural "%s IPs were deleted successfully"
+msgstr[0] "%s IP адрес был успешно удален"
+msgstr[1] "%s IP адреса были успешно удалены"
+msgstr[2] "%s IP адресов были успешно удалены"
+
+#: includes/class-hctpc-whitelist.php:116
+msgid "Allowed formats"
+msgstr "Доступные форматы"
+
+#: captcha.php:1542
+msgid "ninety nine"
+msgstr "девяносто девять"
+
+#: captcha.php:1541
+msgid "ninety eight"
+msgstr "девяносто восемь"
+
+#: captcha.php:1540
+msgid "ninety seven"
+msgstr "девяносто семь"
+
+#: captcha.php:1539
+msgid "ninety six"
+msgstr "девяносто шесть"
+
+#: captcha.php:1538
+msgid "ninety five"
+msgstr "девяносто пять"
+
+#: captcha.php:1537
+msgid "ninety four"
+msgstr "девяносто четыре"
+
+#: captcha.php:1536
+msgid "ninety three"
+msgstr "девяносто три"
+
+#: captcha.php:1535
+msgid "ninety two"
+msgstr "девяносто два"
+
+#: captcha.php:1534
+msgid "ninety one"
+msgstr "девяносто один"
+
+#: captcha.php:1531
+msgid "eighty nine"
+msgstr "восемьдесят девять"
+
+#: captcha.php:1530
+msgid "eighty eight"
+msgstr "восемьдесят восемь"
+
+#: captcha.php:1529
+msgid "eighty seven"
+msgstr "восемьдесят семь"
+
+#: captcha.php:1528
+msgid "eighty six"
+msgstr "восемьдесят шесть"
+
+#: captcha.php:1527
+msgid "eighty five"
+msgstr "восемьдесят пять"
+
+#: captcha.php:1526
+msgid "eighty four"
+msgstr "восемьдесят четыре"
+
+#: captcha.php:1525
+msgid "eighty three"
+msgstr "восемьдесят три"
+
+#: captcha.php:1524
+msgid "eighty two"
+msgstr "восемьдесят два"
+
+#: captcha.php:1523
+msgid "eighty one"
+msgstr "восемьдесят один"
+
+#: captcha.php:1520
+msgid "seventy nine"
+msgstr "семьдесят девять"
+
+#: captcha.php:1519
+msgid "seventy eight"
+msgstr "семьдесят восемь"
+
+#: captcha.php:1518
+msgid "seventy seven"
+msgstr "семьдесят семь"
+
+#: captcha.php:1517
+msgid "seventy six"
+msgstr "семьдесят шесть"
+
+#: captcha.php:1516
+msgid "seventy five"
+msgstr "семьдесят пять"
+
+#: captcha.php:1515
+msgid "seventy four"
+msgstr "семьдесят четыре"
+
+#: captcha.php:1514
+msgid "seventy three"
+msgstr "семьдесят три"
+
+#: captcha.php:1513
+msgid "seventy two"
+msgstr "семьдесят два"
+
+#: captcha.php:1512
+msgid "seventy one"
+msgstr "семьдесят один"
+
+#: captcha.php:1509
+msgid "sixty nine"
+msgstr "шестьдесят девять"
+
+#: captcha.php:1508
+msgid "sixty eight"
+msgstr "шестьдесят восемь"
+
+#: captcha.php:1507
+msgid "sixty seven"
+msgstr "шестьдесят семь"
+
+#: captcha.php:1506
+msgid "sixty six"
+msgstr "шестьдесят шесть"
+
+#: captcha.php:1505
+msgid "sixty five"
+msgstr "шестьдесят пять"
+
+#: captcha.php:1504
+msgid "sixty four"
+msgstr "шестьдесят четыре"
+
+#: captcha.php:1503
+msgid "sixty three"
+msgstr "шестьдесят три"
+
+#: captcha.php:1502
+msgid "sixty two"
+msgstr "шестьдесят два"
+
+#: captcha.php:1501
+msgid "sixty one"
+msgstr "шестьдесят один"
+
+#: captcha.php:1498
+msgid "fifty nine"
+msgstr "пятьдесят девять"
+
+#: captcha.php:1497
+msgid "fifty eight"
+msgstr "пятьдесят восемь"
+
+#: captcha.php:1496
+msgid "fifty seven"
+msgstr "пятьдесят семь"
+
+#: captcha.php:1495
+msgid "fifty six"
+msgstr "пятьдесят шесть"
+
+#: captcha.php:1494
+msgid "fifty five"
+msgstr "пятьдесят пять"
+
+#: captcha.php:1493
+msgid "fifty four"
+msgstr "пятьдесят четыре"
+
+#: captcha.php:1492
+msgid "fifty three"
+msgstr "пятьдесят три"
+
+#: captcha.php:1491
+msgid "fifty two"
+msgstr "пятьдесят два"
+
+#: captcha.php:1490
+msgid "fifty one"
+msgstr "пятьдесят один"
+
+#: captcha.php:1487
+msgid "forty nine"
+msgstr "сорок девять"
+
+#: captcha.php:1486
+msgid "forty eight"
+msgstr "сорок восемь"
+
+#: captcha.php:1485
+msgid "forty seven"
+msgstr "сорок семь"
+
+#: captcha.php:1484
+msgid "forty six"
+msgstr "сорок шесть"
+
+#: captcha.php:1483
+msgid "forty five"
+msgstr "сорок пять"
+
+#: captcha.php:1482
+msgid "forty four"
+msgstr "сорок четыре"
+
+#: captcha.php:1481
+msgid "forty three"
+msgstr "сорок три"
+
+#: captcha.php:1480
+msgid "forty two"
+msgstr "сорок два"
+
+#: captcha.php:1479
+msgid "forty one"
+msgstr "сорок один"
+
+#: captcha.php:1476
+msgid "thirty nine"
+msgstr "тридцать девять"
+
+#: captcha.php:1475
+msgid "thirty eight"
+msgstr "тридцать восемь"
+
+#: captcha.php:1474
+msgid "thirty seven"
+msgstr "тридцать семь"
+
+#: captcha.php:1473
+msgid "thirty six"
+msgstr "тридцать шесть"
+
+#: captcha.php:1472
+msgid "thirty five"
+msgstr "тридцать пять"
+
+#: captcha.php:1471
+msgid "thirty four"
+msgstr "тридцать четыре"
+
+#: captcha.php:1470
+msgid "thirty three"
+msgstr "тридцать три"
+
+#: captcha.php:1469
+msgid "thirty two"
+msgstr "тридцать два"
+
+#: captcha.php:1468
+msgid "thirty one"
+msgstr "тридцать один"
+
+#: captcha.php:1465
+msgid "twenty nine"
+msgstr "двадцать девять"
+
+#: captcha.php:1464
+msgid "twenty eight"
+msgstr "двадцать восемь"
+
+#: captcha.php:1463
+msgid "twenty seven"
+msgstr "двадцать семь"
+
+#: captcha.php:1462
+msgid "twenty six"
+msgstr "двадцать шесть"
+
+#: captcha.php:1461
+msgid "twenty five"
+msgstr "двадцать пять"
+
+#: captcha.php:1460
+msgid "twenty four"
+msgstr "двадцать четыре"
+
+#: captcha.php:1459
+msgid "twenty three"
+msgstr "двадцать три"
+
+#: captcha.php:1458
+msgid "twenty two"
+msgstr "двадцать два"
+
+#: captcha.php:1457
+msgid "twenty one"
+msgstr "двадцать один"
+
+#: includes/class-hctpc-whitelist.php:398
+msgid "IP is already in the whitelist."
+msgstr "IP адрес уже в белом списке."
+
+#: includes/class-hctpc-whitelist.php:394
+msgid "IP added to the whitelist successfully."
+msgstr "IP адрес успешно добавлен в белый список."
+
+#: includes/class-hctpc-package-loader.php:43
+msgid "Can not load images in to the \"uploads\" folder. Please, check your permissions."
+msgstr "Невозможно загрузить изображения в папку \"uploads\". Пожалуйста, проверьте свои права."
+
+#: includes/class-hctpc-settings-tabs.php:309
+#: includes/class-hctpc-settings-tabs.php:410
+msgid "Complexity"
+msgstr "Сложность"
+
+#: includes/class-hctpc-settings-tabs.php:394
+msgid "Arithmetic actions"
+msgstr "Арифметические действия"
+
+#: includes/class-hctpc-settings-tabs.php:88
+msgid "WordPress default"
+msgstr "Стандартные формы WordPress"
+
+#: includes/class-hctpc-settings-tabs.php:414
+msgid "Images"
+msgstr "Изображения"
+
+#: includes/helpers.php:33
+msgid "Time limit is exhausted. Please enter a CAPTCHA value again."
+msgstr "Лимит Времени истёк. Пожалуйста, введите значение для CAPTCHA опять."
+
+#: includes/class-hctpc-package-list.php:131
+#: includes/class-hctpc-whitelist.php:190
+msgid "Date Added"
+msgstr "Дата добавления"
+
+#: includes/class-hctpc-whitelist.php:111
+msgid "My IP"
+msgstr "Мой IP"
+
+#: includes/helpers.php:35
+msgid "You are in the whitelist."
+msgstr "Вы в белом списке."
+
+#: includes/class-hctpc-whitelist.php:80
+msgid "Add New"
+msgstr "Добавить"
+
+#: includes/class-hctpc-whitelist.php:438
+msgid "Search results for"
+msgstr "Результаты поиска для"
+
+#: includes/class-hctpc-whitelist.php:436
+msgid "You have not entered any value in to the search form."
+msgstr "Вы не ввели значение в форму поиска."
+
+#: includes/class-hctpc-whitelist.php:433
+msgid "You have not entered any value."
+msgstr "Вы не ввели значение."
+
+#: includes/class-hctpc-whitelist.php:424
+msgid "One IP was deleted successfully"
+msgstr "Один IP адрес был успешно удален"
+
+#: includes/class-hctpc-whitelist.php:401
+msgid "Invalid IP. See allowed formats."
+msgstr "Неверный IP адрес. Смотрите доступные форматы."
+
+#: includes/class-hctpc-whitelist.php:418
+#: includes/class-hctpc-whitelist.php:430
+msgid "Some errors occurred"
+msgstr "Возникли некоторые ошибки"
+
+#: includes/class-hctpc-whitelist.php:189
+msgid "IP Address"
+msgstr "IP адреса"
+
+#: includes/class-hctpc-whitelist.php:182
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: includes/class-hctpc-whitelist.php:118
+msgid "Allowed diapason"
+msgstr "Доступные диапазоны"
+
+#: includes/class-hctpc-whitelist.php:121
+msgid "Add IP to whitelist"
+msgstr "Добавить IP в белый список"
+
+#: captcha.php:1762
+msgid "Support"
+msgstr "Поддержка"
+
+#: captcha.php:1628
+msgid "Decryption password is not set"
+msgstr "Пароль для дешифровки не установлен"
+
+#: captcha.php:1607
+msgid "Encryption password is not set"
+msgstr "Пароль для шифрования не установлен"
+
+#: captcha.php:1533
+msgid "ninety"
+msgstr "девяносто"
+
+#: captcha.php:1522
+msgid "eighty"
+msgstr "восемьдесят"
+
+#: captcha.php:1511
+msgid "seventy"
+msgstr "семьдесят"
+
+#: captcha.php:1500
+msgid "sixty"
+msgstr "шестьдесят"
+
+#: captcha.php:1489
+msgid "fifty"
+msgstr "пятьдесят"
+
+#: captcha.php:1478
+msgid "forty"
+msgstr "сорок"
+
+#: captcha.php:1467
+msgid "thirty"
+msgstr "тридцать"
+
+#: captcha.php:1456
+msgid "twenty"
+msgstr "двадцать"
+
+#: captcha.php:1445
+msgid "ten"
+msgstr "десять"
+
+#: captcha.php:1454
+msgid "nineteen"
+msgstr "девятнадцать"
+
+#: captcha.php:1453
+msgid "eighteen"
+msgstr "восемнадцать"
+
+#: captcha.php:1452
+msgid "seventeen"
+msgstr "семнадцать"
+
+#: captcha.php:1451
+msgid "sixteen"
+msgstr "шестнадцать"
+
+#: captcha.php:1450
+msgid "fifteen"
+msgstr "пятнадцать"
+
+#: captcha.php:1449
+msgid "fourteen"
+msgstr "четырнадцать"
+
+#: captcha.php:1448
+msgid "thirteen"
+msgstr "тринадцать"
+
+#: captcha.php:1447
+msgid "twelve"
+msgstr "двенадцать"
+
+#: captcha.php:1446
+msgid "eleven"
+msgstr "одиннадцать"
+
+#: captcha.php:1443
+msgid "nine"
+msgstr "девять"
+
+#: captcha.php:1442
+msgid "eight"
+msgstr "восемь"
+
+#: captcha.php:1441
+msgid "seven"
+msgstr "семь"
+
+#: captcha.php:1440
+msgid "six"
+msgstr "шесть"
+
+#: captcha.php:1439
+msgid "five"
+msgstr "пять"
+
+#: captcha.php:1438
+msgid "four"
+msgstr "четыре"
+
+#: captcha.php:1437
+msgid "three"
+msgstr "три"
+
+#: captcha.php:1436
+msgid "two"
+msgstr "два"
+
+#: captcha.php:1435
+msgid "one"
+msgstr "один"
+
+#: captcha.php:1434
+msgid "zero"
+msgstr "ноль"
+
+#: captcha.php:833 captcha.php:839
+msgid "Click the BACK button on your browser, and try again."
+msgstr "Нажмите НАЗАД в браузере и попробуйте еще раз."
+
+#: captcha.php:833 captcha.php:839
+msgid "Error"
+msgstr "Ошибка"
+
+#: captcha.php:607 captcha.php:613 captcha.php:629 captcha.php:631
+#: captcha.php:640 captcha.php:694 captcha.php:698 captcha.php:707
+#: captcha.php:730 captcha.php:740 captcha.php:765 captcha.php:768
+#: captcha.php:776
+msgid "ERROR"
+msgstr "Ошибка"
+
+#: includes/class-hctpc-settings-tabs.php:151
+#: includes/class-hctpc-settings-tabs.php:171
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: includes/class-hctpc-settings-tabs.php:446
+msgid "Required Symbol"
+msgstr "Обязательный cимвол"
+
+#: captcha.php:1761
+msgid "FAQ"
+msgstr "FAQ"
+
+#: captcha.php:443
+msgid "Whitelist"
+msgstr "Белый список"
+
+#: captcha.php:438
+msgid "How to Use Step-by-step Instruction"
+msgstr "Инструкция по использованию"
+
+#: includes/class-hctpc-settings-tabs.php:246
+msgid "All plugin settings were restored."
+msgstr "Все настройки плагина были восстановлены."
+
+#: includes/class-hctpc-settings-tabs.php:377
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: includes/class-hctpc-settings-tabs.php:52
+msgid "Comments form"
+msgstr "Форма комментариев"
+
+#: includes/class-hctpc-settings-tabs.php:50
+msgid "Registration form"
+msgstr "Форма регистрации"
+
+#: includes/class-hctpc-settings-tabs.php:49
+msgid "Login form"
+msgstr "Форма входа"
+
+#: includes/helpers.php:32
+msgid "Please enter a valid CAPTCHA value."
+msgstr "Пожалуйста, введите корректное значение CAPTCHA."
+
+#: includes/helpers.php:31
+msgid "Please enter a CAPTCHA value."
+msgstr "Пожалуйста, заполните CAPTCHA."
+
+#. Plugin Name of the plugin/theme
+msgid "Captcha"
+msgstr "Captcha"
+
+#: captcha.php:42 captcha.php:436 includes/class-hctpc-settings-tabs.php:453
+msgid "Captcha Settings"
+msgstr "Настройки Captcha"
+
+#: includes/class-hctpc-settings-tabs.php:792
+msgid "Install Now"
+msgstr "Установить"
+
+#: captcha.php:441 captcha.php:1747 captcha.php:1760
+#: includes/class-hctpc-settings-tabs.php:39
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/class-hctpc-settings-tabs.php:122
+msgid "No, go back to the settings page"
+msgstr "Нет, вернуться на страницу настроек"
+
+#: includes/class-hctpc-settings-tabs.php:121
+msgid "Yes, restore all settings"
+msgstr "Да, восстановить все настройки"
+
+#: includes/class-hctpc-settings-tabs.php:790
+msgid "Activate"
+msgstr "Активировать"

@@ -1,0 +1,2451 @@
+# Translation of Plugins - NextScripts: Social Networks Auto-Poster - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - NextScripts: Social Networks Auto-Poster - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-05 18:28:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - NextScripts: Social Networks Auto-Poster - Development (trunk)\n"
+
+#: inc-cl/tw.php:45
+msgid "This Twitter account is still limited to 140 characters"
+msgstr "Этот Твиттер аккаунт все еще имеет ограничение до 140 знаков"
+
+#: inc/nxs_class_snap.php:681
+msgid "Report Settings"
+msgstr "Настройки Отчета"
+
+#: inc-cl/fb.php:296
+msgid "Please see here for more info:"
+msgstr "Подробнее смотрите здесь:"
+
+#: inc-cl/fb.php:296
+msgid "SNAP does not set or control image, title and description for shared links previews. Facebook sets that by itself, using your opengraph metatags."
+msgstr "SNAP не устранавливает и не контролирует изображение, заголовок и описание для ссылок. Фейсбук устанавливает все сам, используя ваши open graph мета теги."
+
+#: inc-cl/fb.php:296
+msgid "Please note:"
+msgstr "пожалуйста, обратите внимание:"
+
+#: inc-cl/fb.php:293
+msgid "Shared link along with the text message"
+msgstr "Размещенная ссылка вместе с текстовым сообщением"
+
+#: inc-cl/fb.php:293
+msgid "Shared Link"
+msgstr "Размещенная Ссылка"
+
+#: inc-cl/fb.php:286
+msgid "Upload image along with the text message. No automatic backlink to the original post."
+msgstr "Загрузить картинку вместе с текстовым сообщением. Автоматической обратной ссылки на оригинальный пост не будет. "
+
+#: inc-cl/fb.php:286
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/nxs_class_snap.php:686
+msgid "60 seconds is optimal for most sites. Please set 30 seconds if you post a lot of posts, 120 if you post rarely. Do not set more then 600 seconds and less then 30 seconds."
+msgstr "60 секунд оптимально для большинства сайтов. Пожалуйста, выберите 30 секунд если вы размещаете много постов, и 120 секунд если вы размещаете их редко. Не устанавливайте больше чем 600 секунд и меньше чем 30 секунд."
+
+#: inc/nxs_class_snap.php:684
+msgid "Check Query Every (Sec):"
+msgstr "Проверять очередь каждые (сек):"
+
+#: inc/nxs_class_snap.php:696
+msgid "Number of Log records to keep:"
+msgstr "Какое количество Лог записей хранить:"
+
+#: inc/nxs_class_snap.php:680
+msgid "System Settings"
+msgstr "Системные Настройки"
+
+#: inc/nxs_class_ntlist.php:412
+msgid "Import Comments/Replies"
+msgstr "Импортировать комментарии/ответы"
+
+#: inc/nxs_class_flt.php:342
+msgid "Reset Reposter"
+msgstr "Перезапуск репостера"
+
+#: inc/nxs_class_flt.php:335
+msgid "This will only post posts that were never posted by this reposter. If you reset reposter all posts will become available for reposting again."
+msgstr "Этот чекбокс позволит опубликовать записи, которые никогда не были опубликованы этим репостером. Если вы нажмете кнопку сброса, все сообщения станут доступны для повторной отправки."
+
+#: inc/nxs_class_flt.php:335
+msgid "Post each post only once"
+msgstr "Опубликовать каждую запись только один раз"
+
+#: inc/nxs_class_flt.php:333
+msgid "Will post only posts that were never posted by SNAP. General setting, will not be reset. This is usefull if you have existing posts and want them to be posted to your social media accounts only once."
+msgstr "Опубликует только те записи, которые еще никогда не публиковались при помощи SNAP. Общие настройки не будут сброшены. Это полезно, если у вас есть существующие записи и вы хотите, чтобы они были размещены в ваши аккаунты в социальных сетях только один раз."
+
+#: inc/nxs_class_flt.php:332
+msgid "Post ONLY never autoposted posts"
+msgstr "Разместить ТОЛЬКО никогда еще не авто-размещенные записи"
+
+#: inc/nxs_class_snap.php:794
+msgid "Warning: Cron was not executed in the last 5 minutes"
+msgstr "Предупреждение: Cron не запускался за последние 5 минут"
+
+#: inc/nxs_class_snap.php:793
+msgid "Problem: Cron was not executed in the last hour. Query is not running."
+msgstr "Проблема: Cron не запускался за последний час. Очередь задач не продвигается."
+
+#: inc/nxs_class_snap.php:792
+msgid "Last Cron Execution Time:"
+msgstr "Последнее время запуска Cron:"
+
+#: inc/nxs_class_snap.php:789
+msgid "Time Now:"
+msgstr "Время сейчас:"
+
+#: inc/nxs_class_snap.php:263 inc/nxs_class_snap.php:748
+msgid "Saved"
+msgstr "Сохранено"
+
+#: inc/nxs_class_snap.php:262 inc/nxs_class_snap.php:747
+msgid "Saving...."
+msgstr "Сохраняю..."
+
+#: inc/nxs_class_snap.php:204
+msgid "Update Accounts"
+msgstr "Обновить аккаунты"
+
+#: inc/nxs_class_ntlist.php:155
+msgid "What image size should be used if several sizes are avalible"
+msgstr "Какой размер изображения следует использовать, если доступно несколько размеров"
+
+#. Description of the plugin/theme
+msgid "This plugin automatically publishes posts from your blog to your social media accounts on Facebook, Twitter, LinkedIn, Google+ and 25 more networks."
+msgstr "Этот плагин автоматически публикует сообщения из вашего блога на ваши аккаунты в социальных сетях в Facebook, Twitter, LinkedIn, Google+ и еще 25 сетях."
+
+#: inc-cl/vk.php:28
+msgid "URL"
+msgstr "URL"
+
+#: inc-cl/tr.php:86
+msgid ".... Enter the Blog ID"
+msgstr "...Введите ID блога"
+
+#: inc-cl/tr.php:77
+msgid "Please select your blog"
+msgstr "Пожалуйста, выберите ваш блог"
+
+#: inc-cl/tr.php:68
+msgid "...enter the Blog ID"
+msgstr "...Введите ID блога"
+
+#: inc-cl/tr.php:60 inc-cl/tr.php:66
+msgid "Auth Problem"
+msgstr "Проблема авторизации"
+
+#: inc-cl/ln.php:49 inc-cl/tg.php:19 inc-cl/tg.php:50 inc-cl/tg.php:68
+msgid "Enable Web Preview"
+msgstr "включить Веб Просмотр"
+
+#: inc-cl/tg.php:16
+msgid "Channel ID, Group ID or Chat ID"
+msgstr "ID канала, ID группы или ID чата"
+
+#: inc-cl/tg.php:15
+msgid "Bot Token"
+msgstr "Токен Бота"
+
+#: inc-cl/su.php:72
+msgid "Select StumbleUpon Category"
+msgstr "Выберите категории StumbleUpon "
+
+#: inc-cl/rd.php:49
+msgid "Please enter your login/password to see the list of your subreddits"
+msgstr "Введите свой логин/пароль, чтобы просмотреть список ваших subreddits"
+
+#: inc-cl/rd.php:34
+msgid "Please select Subreddit"
+msgstr "Пожалуйста, выберите Subreddit"
+
+#: inc-cl/rd.php:34
+msgid "Subreddit ID"
+msgstr "Subreddit ID"
+
+#: inc-cl/pn.php:146
+msgid "API Not Found"
+msgstr "API не найден"
+
+#: inc-cl/pn.php:121
+msgid "Select Board"
+msgstr "Выберите Доску"
+
+#: inc-cl/pn.php:104 inc-cl/pn.php:126
+msgid "None(Please go to the settings and retrieve the list of boards)"
+msgstr "Ни одной (перейдите к настройкам и получите список досок)"
+
+#: inc-cl/mc.php:16
+msgid "Recipients List ID"
+msgstr "Список получателей ID"
+
+#: inc-cl/mc.php:15
+msgid "API Key"
+msgstr "API ключ"
+
+#: inc-cl/lj.php:34
+msgid "Please specify the Blog or Community URL or ID. Use this only if you are posting NOT to your own journal."
+msgstr "Укажите URL или ID блога или сообщества. Используйте это только в том случае, если вы размещаете НЕ В СВОЙ журнал."
+
+#: inc-cl/lj.php:34
+msgid "Blog/Community URL or ID"
+msgstr "Блог/Сообщество URL или ID"
+
+#: inc-cl/lj.php:26
+msgid "Please select your website. SNAP could post to LJ Engine Based sites like DreamWidth.org"
+msgstr "Пожалуйста, выберите свой сайт. SNAP может размещать сообщения на сайты, построенные на движке LJ, такие как DreamWidth.org "
+
+#: inc-cl/lj.php:26
+msgid "Website"
+msgstr "Website"
+
+#: inc-cl/li.php:351 inc-cl/li.php:381
+msgid "Pulse Text Format:"
+msgstr "Формат текста Pulse:"
+
+#: inc-cl/li.php:350 inc-cl/li.php:380
+msgid "Pulse Title Format:"
+msgstr "Формат заголовка Pulse:"
+
+#: inc-cl/li.php:257
+msgid "Pulse Article"
+msgstr "Pulse статья "
+
+#: inc-cl/li.php:257
+msgid "Rich text post article shared to the \"Pulse\" section"
+msgstr "Расширенное форматирование статьи, размещаемой в Pulse раздел "
+
+#: inc-cl/li.php:248 inc-cl/xi.php:146
+msgid ".... Enter the Group ID"
+msgstr "...Введите ID группы"
+
+#: inc-cl/li.php:236 inc-cl/xi.php:134
+msgid "Post to LinkedIn Group"
+msgstr "Опубликовать в группу LinkedIn "
+
+#: inc-cl/li.php:234 inc-cl/xi.php:130
+msgid "Please Enter your username and password to select your page"
+msgstr "Пожалуйста, введите свое имя пользователя и пароль, чтобы выбрать свою страницу"
+
+#: inc-cl/li.php:228 inc-cl/xi.php:124
+msgid ".... Enter the Company Page ID"
+msgstr "...Введите ID страницы компании"
+
+#: inc-cl/li.php:216 inc-cl/xi.php:112
+msgid "Post to Company page"
+msgstr "Разместить на страницу Компании"
+
+#: inc-cl/ig.php:24
+msgid "What do to with the image"
+msgstr "Что делать с изображением"
+
+#: inc-cl/gp.php:275
+msgid "...enter the Collection or Community ID"
+msgstr "...введите ID Коллекции или Сообщества"
+
+#: inc-cl/yt.php:26
+msgid "Google+ Page ID"
+msgstr "ID страницы Google+ "
+
+#: inc-cl/yt.php:25
+msgid "YouTube Channel Page URL"
+msgstr " URL страницы YouTube канала "
+
+#: inc-cl/yt.php:25
+msgid "YouTube Channel Feed Page URL"
+msgstr "URL feed страницы YouTube канала"
+
+#: inc-cl/xi.php:158
+msgid "Please select a Group Forum"
+msgstr "Пожалуйста, выберите Форум Группы"
+
+#: inc-cl/xi.php:168
+msgid ".... Enter the Group Forum ID"
+msgstr "... Введите ID Форума Группы"
+
+#: inc-cl/xi.php:70
+msgid "...enter the Group Forum ID"
+msgstr "... Введите ID Форума Группы"
+
+#: inc-cl/wp.php:32
+msgid "Categories from the blogpost will be included. Target blog must have the categories with the same slugs"
+msgstr "Категории из блог-постов будут включены. Блог назначения должен иметь категории с совпадающими ярлыками."
+
+#: inc-cl/wp.php:32
+msgid "Post with categories"
+msgstr "Разместить с категориями"
+
+#: inc-cl/wp.php:24
+msgid "XMLRPC URL"
+msgstr "XMLRPC URL"
+
+#: inc-cl/wl.php:443
+msgid "Repost to WaNeLo"
+msgstr "Репост в WaNeLo"
+
+#: inc-cl/vk.php:36
+msgid "Auth Response"
+msgstr "Автоответ"
+
+#: inc-cl/li.php:216 inc-cl/xi.php:112
+msgid "Company Page"
+msgstr "Company Page"
+
+#: inc-cl/li.php:215 inc-cl/xi.php:103
+msgid "Post to your profile"
+msgstr "Разместить в ваш профиль"
+
+#: inc-cl/li.php:215 inc-cl/xi.php:103
+msgid "Profile Update"
+msgstr "Обновить профиль"
+
+#: inc-cl/li.php:185 inc-cl/tr.php:90
+msgid "Please authorize your account"
+msgstr "Пожалуйста, авторизуйте свой аккаунт"
+
+#: inc-cl/li.php:172
+msgid "Please select your Profile or Company Page"
+msgstr "Пожалуйста, выберете свой Профиль или Страницу Компании"
+
+#: inc-cl/li.php:138 inc-cl/li.php:139 inc-cl/li.php:140
+msgid "Disadvantages"
+msgstr "Недостатки "
+
+#: inc-cl/li.php:138 inc-cl/li.php:139 inc-cl/li.php:140
+msgid "Advantages"
+msgstr "Достоинства"
+
+#: inc-cl/fb.php:188 inc-cl/li.php:130 inc-cl/xi.php:61
+msgid "...enter the Group ID"
+msgstr "...Введите ID группы"
+
+#: inc-cl/fb.php:179 inc-cl/li.php:117 inc-cl/xi.php:52
+msgid "...enter the Company Page ID"
+msgstr "...Введите ID Группы Компании"
+
+#: inc-cl/vk.php:32
+msgid "[VK Apps]"
+msgstr "[VK Apps]"
+
+#: inc-cl/vk.php:32
+msgid "Application ID"
+msgstr "Application ID"
+
+#: inc-cl/vk.php:29
+msgid "Could be your VK.Com Profile, Public or Group Page"
+msgstr "Может быть ваш VK.Com профиль, публичная или страница группы"
+
+#: inc-cl/pn.php:66
+msgid "URL of the Default Image to Pin"
+msgstr "URL картинки по умолчанию для Пина"
+
+#: inc-cl/pn.php:64
+msgid "No Clickthrough URL"
+msgstr "URL без обратной ссылки "
+
+#: inc-cl/pn.php:62
+msgid "Regular Post URL"
+msgstr "URL обычного поста"
+
+#: inc-cl/pn.php:60
+msgid "Clickthrough URL"
+msgstr "URL с обратной ссылкой"
+
+#: inc-cl/pn.php:53
+msgid "Please enter your login/password to see the list of your boards"
+msgstr "Пожалуйста, введите ваш логин/пароль чтобы видеть список ваших Досок"
+
+#: inc-cl/pn.php:38
+msgid "Please select the board to post to"
+msgstr "Пожалуйста, выберите Доску для размещения"
+
+#: inc-cl/pn.php:38
+msgid "Board"
+msgstr "Доска"
+
+#: inc-cl/pk.php:59
+msgid "Your Plurk URL"
+msgstr "URL вашего Plurk "
+
+#: inc-cl/ok.php:27
+msgid "Text with image"
+msgstr "Текст с картинкой"
+
+#: inc-cl/mc.php:48 inc-cl/mc.php:57
+msgid "Subject Format:"
+msgstr "Формат заголовка:"
+
+#: inc-cl/mc.php:19
+msgid "The reply-to email address for the campaign"
+msgstr "ответный email адрес кампании "
+
+#: inc-cl/mc.php:19
+msgid "From Email"
+msgstr "от Email"
+
+#: inc-cl/gp.php:78 inc-cl/md.php:45
+msgid "Where to post:"
+msgstr "Куда разместить:"
+
+#: inc-cl/gp.php:62
+msgid "Please select profile, business page or branded page"
+msgstr "Пожалуйста, выберите профиль, бизнес страницу или страницу бренда"
+
+#: inc-cl/gp.php:62
+msgid "Post as"
+msgstr "Разместить как"
+
+#: inc-cl/fp.php:70
+msgid "Comment Format:"
+msgstr "Формат комментария:"
+
+#: inc-cl/fp.php:40
+msgid "Flipboard Magazine URL"
+msgstr "  URL Flipboard журнала"
+
+#: inc-cl/fl.php:68 inc-cl/ig.php:31 inc-cl/pn.php:67
+msgid "If your post does not have any images this will be used instead."
+msgstr "Если ваш пост не имеет никаких картинок, будет использована эта."
+
+#: inc-cl/fl.php:68
+msgid "Default Image to use"
+msgstr "Картинка для использования по умолчанию"
+
+#: inc-cl/fl.php:63
+msgid "(Optional)"
+msgstr "(Необязательное)"
+
+#: inc-cl/fl.php:63
+msgid "Flickr Set ID"
+msgstr "ID Flickr Сета"
+
+#: inc-cl/fb.php:330
+msgid "You are using this feature at your own risk. We are not responsible for any outcome of it's usage."
+msgstr "Вы используете эту функцию на свой собственный риск. Мы не несем ответственности за результат ее использования ни в каком виде."
+
+#: inc-cl/fb.php:329
+msgid "Your <b>Facebook account might be suspended</b>"
+msgstr "Ваш <b>Фейсбук аккаунт может быть заблокирован</b>"
+
+#: inc-cl/fb.php:328
+msgid "This functionality might not work or might stop working at any time"
+msgstr "Эта функциональность может не работать или может перестать работать в близжайшее время"
+
+#: inc-cl/fb.php:327
+msgid "<b>We do not support</b> or encourage the usage of this feature"
+msgstr "<b>Мы не рекомендуем</b> и не поддерживаем использование этой функции  "
+
+#: inc-cl/fb.php:325
+msgid "\"Third party auth tokens\" is an unofficial workaround for the limitations of the standard Facebook API functionality. By using this you are confirming that you understand and agree to:"
+msgstr "\"Постронний токен авторизации\" это неофициальный обход ограничений стандарта функциональности API Фейсбука. Используя его, вы выражаете свое понимание и согласие со следующим:"
+
+#: inc-cl/fb.php:322 inc-cl/fb.php:332
+msgid "Auth Token:"
+msgstr "Токен Авторизации:"
+
+#: inc-cl/5p.php:94 inc-cl/5p.php:116
+msgid "Description Format:"
+msgstr "Формат описания:"
+
+#: inc-cl/5p.php:52 inc-cl/5p.php:102 inc-cl/5p.php:120
+msgid "Category"
+msgstr "Категория"
+
+#: inc/nxs_functions_wp.php:713
+msgid "Errors"
+msgstr "Ошибки"
+
+#: inc/nxs_functions_wp.php:712
+msgid "accounts - OK"
+msgstr "аккаунты - OK"
+
+#: inc/nxs_functions_wp.php:416
+msgid "Image to use:"
+msgstr "Использовать Картинку:"
+
+#: inc/nxs_functions_wp.php:292
+msgid "You already have %s configured. This plugin supports only one %s account. <br/><br/>If you would like to add another %s account please consider getting <a target=\"_blank\" href=\"https://www.nextscripts.com/social-networks-autoposter-wordpress-plugin-pro/\">SNAP Pro Plugin for WordPress</a><br/><br/>SNAP Pro Plugin for WordPress allows adding unlimited number of %s accounts."
+msgstr "Ваш %s сконфигурирован. Это плагин поддерживает только один %s аккаунт. <br/><br/>если вы хотите добавить еще %s аккаунт, пожалуйста рассмотрите возможность приобретения <a target=\"_blank\" href=\"https://www.nextscripts.com/social-networks-autoposter-wordpress-plugin-pro/\">SNAP Pro Plugin for WordPress</a><br/><br/>SNAP Pro Plugin for WordPress позволяет добавлять неограниченное количество %s аккаунтов."
+
+#: inc-cl/ig.php:28
+msgid "Image will be untouched. (Could cause \"Uploaded image isn't in an allowed aspect ratio\" Error)"
+msgstr "Изображение будет не тронуто. (Возможна ошибка \"У загружаемой картинки неправильное соотношение сторон\") "
+
+#: inc-cl/mc.php:18
+msgid "The [From] name on the campaign (not an email address)."
+msgstr "[От кого] имя кампании (не е-мейл адрес)."
+
+#: inc-cl/mc.php:18
+msgid "From name"
+msgstr "От имени"
+
+#: inc-cl/mc.php:16
+msgid "The unique recipients list id"
+msgstr "ID уникального списка получателей"
+
+#: inc-cl/ig.php:28
+msgid "Don't change"
+msgstr "Ничего не менять"
+
+#: inc-cl/ig.php:27
+msgid "Make it Square: Crop"
+msgstr "Сделать квадратным: Обрезать"
+
+#: inc-cl/ig.php:26
+msgid "Image will be extended to square"
+msgstr "Изображение будет увеличено до квадрата"
+
+#: inc-cl/ig.php:27
+msgid "Image will be cropped to square"
+msgstr "Изображение будет квадратно обрезано"
+
+#: inc-cl/ig.php:26
+msgid "Make it Square: Extend"
+msgstr "Сделать квадратным: Увеличить"
+
+#: inc-cl/fb.php:177 inc-cl/fb.php:186 inc-cl/gp.php:262 inc-cl/gp.php:273
+#: inc-cl/li.php:115 inc-cl/li.php:128 inc-cl/pn.php:150 inc-cl/rd.php:135
+#: inc-cl/xi.php:50 inc-cl/xi.php:59 inc-cl/xi.php:68
+msgid "Login Problem"
+msgstr "Проблема Авторизации"
+
+#: inc-cl/gp.php:166 inc-cl/gp.php:185 inc-cl/ok.php:63 inc-cl/ok.php:84
+msgid "Text with Image"
+msgstr "Текст с Картинкой"
+
+#: inc-cl/fb.php:153
+msgid "Public Groups"
+msgstr "Публичные Группы"
+
+#: inc-cl/fb.php:156
+msgid "Closed Groups"
+msgstr "Закрытые Группы"
+
+#: inc-cl/fb.php:141
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc-cl/di.php:29 inc-cl/su.php:31 inc-cl/wp.php:29
+msgid "Tags from the blogpost will be included"
+msgstr "Теги из сообщения блога будут включены "
+
+#: inc-cl/bg.php:56
+msgid "Blogger Blog ID"
+msgstr "ID Blogger блога"
+
+#: inc-cl/gp.php:91
+msgid "Please enter your login/password to see the list of your pages, collections, and communities"
+msgstr "Пожалуйста, введите ваш логин/пароль чтобы увидеть список ваших страниц, коллекций и сообществ"
+
+#: inc-cl/gp.php:94
+msgid "Community Category:"
+msgstr "Категория Сообщества:"
+
+#: inc-cl/gp.php:87
+msgid ".... Enter the Collection or Community ID"
+msgstr "...Введите ID Коллекции или Сообщества"
+
+#: inc-cl/gp.php:78
+msgid "Could be profile, page, collection or community"
+msgstr "Может быть профиль, страница, коллекция или сообщество"
+
+#: inc-cl/fb.php:227
+msgid "Third Party Auth Token is used"
+msgstr "Используется Посторонний Токен Аутентификации "
+
+#: inc-cl/fb.php:270
+msgid "Please select where to post"
+msgstr "Пожалуйста, выберите куда размещать собщения"
+
+#: inc-cl/fb.php:266 inc-cl/gp.php:71 inc-cl/li.php:181
+msgid ".... Enter the Page ID"
+msgstr "...Введите ID Страницы"
+
+#: inc-cl/fb.php:256
+msgid "Why Page/Group is not in the list and how to add it"
+msgstr "Почему страницы/группы нет в списке и как ее добавить"
+
+#: inc-cl/fb.php:256
+msgid "Please see "
+msgstr "Смотрите здесь"
+
+#: inc-cl/fb.php:256
+msgid "Please select your profile/page/group"
+msgstr "Пожалуйста, выберите ваш профиль/страницу/группу"
+
+#: inc-cl/fb.php:256 inc-cl/fb.php:276 inc-cl/fp.php:40 inc-cl/li.php:172
+#: inc-cl/li.php:213 inc-cl/ln.php:16 inc-cl/pk.php:59 inc-cl/tg.php:16
+#: inc-cl/tr.php:77 inc-cl/wp.php:24 inc-cl/xi.php:100
+msgid "Where to Post"
+msgstr "Куда размещать"
+
+#: inc-cl/fb.php:123 inc-cl/fb.php:167 inc-cl/gp.php:264 inc-cl/li.php:104
+msgid "...enter the Page ID"
+msgstr "...Введите ID Страницы"
+
+#: inc-cl/fb.php:159
+msgid "Secret Groups"
+msgstr "Секретные группы"
+
+#: inc-cl/yt.php:26
+msgid "Fill this only if you are posting to youTube as your Google+ page. Please leave this empty otherwise."
+msgstr "Заполните, только если вы публикуете в youTube в качестве Google+ page. Пожалуйста, оставьте поле пустым в любом другом случае. "
+
+#: inc/nxs_functions_wp.php:248
+msgid "Edit Quick Post"
+msgstr "Редактировать Быстрый Пост"
+
+#: inc/nxs_functions_wp.php:250
+msgid "View Quick Post"
+msgstr "Показать Быстрый Пост"
+
+#: inc/nxs_class_snap.php:1242
+msgid "Finished"
+msgstr "Закончены"
+
+#: inc/nxs_functions_wp.php:247
+msgid "Add new Quick Post"
+msgstr "Добавить новый Быстрый Пост"
+
+#: inc/nxs_class_flt.php:443
+msgid "Categories and Tags"
+msgstr "Категории и Тэги"
+
+#: inc/nxs_functions_wp.php:254
+msgid "Quick Posts"
+msgstr "Быстрый Пост"
+
+#: inc/nxs_functions_wp.php:253
+msgid "Quick Post not found in trash"
+msgstr "Быстрый Пост в корзине не найден"
+
+#: inc/nxs_functions_wp.php:252
+msgid "Quick Post not found"
+msgstr "Быстрый Пост не найден"
+
+#: inc/nxs_functions_wp.php:251
+msgid "Find Quick Posts"
+msgstr "Найти Быстрые Посты"
+
+#: inc/nxs_class_snap.php:1242
+msgid "Active"
+msgstr "Активны"
+
+#: inc/nxs_class_snap.php:999
+msgid "No completed accounts available"
+msgstr "Нет завершенных аккаунтов"
+
+#: inc/nxs_class_snap.php:987
+msgid "Unselect All"
+msgstr "Отменить Все"
+
+#: inc/nxs_class_snap.php:987
+msgid "Select All"
+msgstr "Выбрать Все"
+
+#: inc/nxs_class_snap.php:953
+msgid "Collapse All Accounts"
+msgstr "Свернуть Все Аккаунты"
+
+#: inc/nxs_class_snap.php:953
+msgid "Expand All Accounts"
+msgstr "Развернуть Все Аккаунты"
+
+#: inc/nxs_class_snap.php:940
+msgid "Filters are \"ON\". Will be posted or skipped based on filters"
+msgstr "Фильтры \"включены\". Будет опубликован или пропущен на основе фильтров"
+
+#: inc/nxs_class_snap.php:903
+msgid "This is a complete \"Start Over\". This will delete all SNAP data from the posts and all SNAP settings including all configured networks."
+msgstr "Это возможность \"Начать  с нуля\". Это удалит все данные SNAP из всех постов и все настройки SNAP, включая все сконфигурированные сети."
+
+#: inc/nxs_class_snap.php:903
+msgid "Delete all SNAP Data"
+msgstr "Удалить все данные SNAP "
+
+#: inc/nxs_class_snap.php:902
+msgid "this will cached networks data."
+msgstr "это кэширует данные сетей."
+
+#: inc/nxs_class_snap.php:902
+msgid "Clear Cache"
+msgstr "Очистить Кэш"
+
+#: inc/nxs_class_snap.php:901
+msgid "this will delete all pending SNAP Cron tasks."
+msgstr "Это удалит все ожидающие SNAP Cron задачи."
+
+#: inc/nxs_class_snap.php:901
+msgid "Remove all pending SNAP Cron Tasks"
+msgstr "Удалить все ожидающие SNAP Cron задачи"
+
+#: inc/nxs_class_snap.php:900
+msgid "this will remove all pending posts from your query."
+msgstr "Это удалит все ожидающие размещения посты из вашей очереди."
+
+#: inc/nxs_class_snap.php:823
+msgid "Query is empty"
+msgstr "Очередь пуста"
+
+#: inc/nxs_class_snap.php:789
+msgid "Future Posts Timeline"
+msgstr "Расписание будущих постов"
+
+#: inc/nxs_class_snap.php:646
+msgid "Attachment images:"
+msgstr "Картинки вложения:"
+
+#: inc/nxs_class_snap.php:640 inc/nxs_class_snap.php:648
+msgid "Original Size"
+msgstr "Оригинальный Размер"
+
+#: inc/nxs_class_snap.php:638
+msgid "Image posts:"
+msgstr "Картинку разместить:"
+
+#: inc/nxs_class_snap.php:637
+msgid "If there is a choice what image size should be used:"
+msgstr "Если есть выбор, какой размер картинки использовать:"
+
+#: inc/nxs_class_snap.php:617
+msgid "Author's Facebook URL"
+msgstr "URL автора фейсбука"
+
+#: inc/nxs_class_snap.php:610
+msgid "Do not add Open Graph Tags"
+msgstr "Не добавляйте Open Graph теги"
+
+#: inc/nxs_class_snap.php:609
+msgid "Add Open Graph Tags only when nessesary"
+msgstr "Дабавляйте Open Graph теги только когда необходимо"
+
+#: inc/nxs_class_snap.php:587
+msgid "It has support for OG Metatags. Please disable SNAP OG Tags to avoid conflicts."
+msgstr "Поддерживает Open Graph мета-теги. Пожалуйста, отключите SNAP OG теги, чтоы избежать конфликта."
+
+#: inc/nxs_class_snap.php:587
+msgid "plugin has been detected"
+msgstr "Плагин был обнаружен"
+
+#: inc/nxs_class_snap.php:585
+msgid "SNAP has a very simple implementation of the \"Open Graph\" metatags. Please see here for more info - SNAP Open Graph Tags"
+msgstr "SNAP имеет очень простую реальзацию \"Open Graph\" мета-тегов. Подробнее смотрите здесь - SNAP Open Graph Tags"
+
+#: inc/nxs_class_snap.php:542
+msgid "All links will be http"
+msgstr "Все ссылки будут http"
+
+#: inc/nxs_class_snap.php:542
+msgid "Force NON-SSL"
+msgstr "Запустить NON-SSL"
+
+#: inc/nxs_class_snap.php:541
+msgid "All links will be https/ssl"
+msgstr "Все ссылки будут https/ssl"
+
+#: inc/nxs_class_snap.php:377
+msgid "Please show supported networks with categories"
+msgstr "Покажите поддерживаемые сети с категориями"
+
+#: inc/nxs_class_snap.php:377
+msgid "Categorized"
+msgstr "Категории установлены"
+
+#: inc/nxs_class_snap.php:375
+msgid "How to show the Networks List in the \"Add New Network\" dropdown"
+msgstr "Как показать список сетей в раскрывающемся меню «Добавить Новую Сеть»"
+
+#: inc/nxs_class_snap.php:374
+msgid "Interface"
+msgstr "Интерфейс"
+
+#: inc/nxs_class_snap.php:352
+msgid "Who can setup his/her own accounts?"
+msgstr "Кто может настраивать свои собственные аккаунты?"
+
+#: inc/nxs_class_snap.php:333
+msgid "User \"0\" - Sometimes used for Imported/Automated posts."
+msgstr "Пользователь \"0\" - Иногда используется для импортированных/автоматизированных постов."
+
+#: inc/nxs_class_snap.php:221
+msgid "Filters are active. Click Show Settings->Advanced to change.<br/>"
+msgstr "Фильтры работают. Клик Покажите настройки->Расширенные чтобы изменить.<br/>"
+
+#: inc/nxs_class_snap.php:211
+msgid "Radiobutton - Filters are on. Posts will be autposted or not autoposted depending on filters"
+msgstr "Радиокнопка - Фильтры работают. Записи будут авто-размещены или не авто-размещены, в зависимости от фильтров"
+
+#: inc/nxs_class_snap.php:210
+msgid "Unchecked checkbox - posts will NOT be autposted to that network by default"
+msgstr "Если чекбокс не отмечен, записи не будут авто-размещаться в эту сеть по умолчанию"
+
+#: inc/nxs_class_snap.php:209
+msgid "Checked checkbox - posts will be autposted to that network by default"
+msgstr "Если чекбокс отмечен, записи будут авто-рамещаться в эту сеть по умолчанию"
+
+#: inc/nxs_class_snap.php:175
+msgid "Please select network..."
+msgstr "Пожалуйста, выберите сеть..."
+
+#: inc/nxs_class_snap.php:172 inc/nxs_class_snap.php:953
+msgid "Show All Accounts"
+msgstr "Показать все аккаунты"
+
+#: inc/nxs_class_snap.php:172 inc/nxs_class_snap.php:953
+msgid "Show Only Selected"
+msgstr "Показать только выбранные"
+
+#: inc/nxs_class_snap.php:172 inc/nxs_class_snap.php:951
+msgid "Unselect All Accounts"
+msgstr "Отменить выбор всех аккаунтов"
+
+#: inc/nxs_class_snap.php:172 inc/nxs_class_snap.php:951
+msgid "Select All Accounts"
+msgstr "Выбрать все аккаунты"
+
+#: inc/nxs_class_ntlist.php:124
+msgid "Username:Password"
+msgstr "Имя пользователя:Пароль"
+
+#: inc/nxs_class_ntlist.php:123
+msgid "IP:Port"
+msgstr "IP:Порт"
+
+#: inc/nxs_class_ntlist.php:121
+msgid "Use Proxy"
+msgstr "Использовать Прокси"
+
+#: inc/nxs_class_ntlist.php:119
+msgid "Proxy"
+msgstr "Прокси"
+
+#: inc/nxs_class_ntlist.php:109
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/nxs_class_ntlist.php:106
+msgid "Update Account Info"
+msgstr "Обновить информацию аккаунта"
+
+#: inc/nxs_class_ntlist.php:106
+msgid "Add Account"
+msgstr "Добавить Аккаунт"
+
+#: inc/nxs_class_ntlist.php:83
+msgid "Detailed %s Configuration Instructions"
+msgstr "Инструкции для детальной конфигурации %s"
+
+#: inc/nxs_class_ntlist.php:58
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: inc/nxs_class_ntlist.php:53
+msgid "Attention required. Unfinished setup"
+msgstr "Внимание. Настройка не закончена "
+
+#: inc/nxs_class_ntlist.php:29
+msgid "account"
+msgstr "аккаунт"
+
+#: inc/nxs_class_ntlist.php:29
+msgid "Add New"
+msgstr "Добавить Новый"
+
+#: inc/nxs_class_mgmt.php:250 inc/nxs_class_snap.php:883
+msgid "Have questions/suggestions?"
+msgstr "Имеются вопросы/рекомендации?"
+
+#: inc/nxs_class_mgmt.php:249
+msgid "Can't find the answer ins the FAQ? Have troubles/problems/found a bug?"
+msgstr "Не можете найти ответ в FAQ? Есть проблемы/трудности/нашли поломку?"
+
+#: inc/nxs_class_mgmt.php:248
+msgid "Troubleshooting FAQ"
+msgstr "Исправление проблем FAQ"
+
+#: inc/nxs_functions_wp.php:246
+msgid "Add Quick Post"
+msgstr "Добавить Быстрое Сообщение"
+
+#: inc/nxs_functions_wp.php:244
+msgid "SNAP Quick Post"
+msgstr "SNAP Быстрое Сообщение"
+
+#: inc/nxs_functions_adv.php:307
+msgid "Add New Reposter Action"
+msgstr "Добавить Новый Репостер "
+
+#: inc/nxs_functions_adv.php:284
+msgid "Peak memory usage"
+msgstr "Самое большое использование памяти"
+
+#: inc/nxs_functions_adv.php:283
+msgid "PHP Memory limit"
+msgstr "ограничение памяти для PHP "
+
+#: inc/nxs_functions_adv.php:120
+msgid "Done. SNAP query has been cleared."
+msgstr "Выполнено. SNAP очередь очищена. "
+
+#: inc/nxs_functions_adv.php:127
+msgid "Done. All SNAP Cache has been cleared."
+msgstr "Выполнено. Весь SNAP Cache очищен. "
+
+#: inc/nxs_functions_adv.php:124
+msgid "Done. All SNAP Crons has been deleted."
+msgstr "Выполнено. Все SNAP Кроны были удалены."
+
+#: inc/nxs_functions_adv.php:117
+msgid "Done. Backup has been restored. <script> setTimeout(function () { location.reload(1); }, 3000); </script>"
+msgstr "Выполнено. Backup восстановлен. <script> setTimeout(function () { location.reload(1); }, 3000); </script>"
+
+#: inc/nxs_functions_adv.php:113
+msgid "Done. All SNAP data has been removed. Please wait for the page to reload...."
+msgstr "Выполнено. Все данные SNAP удалены. Пожалуйста, подождите перезагрузки страницы..."
+
+#: inc/nxs_class_snap.php:873
+msgid "General Questions"
+msgstr "Общие Вопросы"
+
+#: inc/nxs_class_snap.php:871
+msgid "Setup/Configuration/Usage Tutorials"
+msgstr "Установка/Конфигурация/Самоучитель пользователя"
+
+#: inc/nxs_class_snap.php:870
+msgid "Setup/Installation Instructions for each network"
+msgstr "Инструкции по Установке/Инсталляции каждой сети "
+
+#: inc/nxs_class_snap.php:868
+msgid "Plugin Features Documentation"
+msgstr "Документация по Функциям Плагина"
+
+#: inc/nxs_class_snap.php:850
+msgid "System Tests"
+msgstr "Системные тесты"
+
+#: inc/nxs_class_snap.php:541
+msgid "Force SSL"
+msgstr "Принудить SSL"
+
+#: inc/nxs_class_snap.php:540
+msgid "All links will be exactly as provided by Wordpress"
+msgstr "Все ссылки будут точно такими же, как предусмотрено Wordpress "
+
+#: inc/nxs_class_snap.php:540
+msgid "Don't do anything, let Wordpress to set the links."
+msgstr "Ничего не делайте, пусть Wordpress устанавливает ссылки. "
+
+#: inc/nxs_class_snap.php:539
+msgid "Force HTTPS/SSL?"
+msgstr "Принудить HTTPS/SSL?"
+
+#: inc/nxs_class_snap.php:537
+msgid "Here you can set what should be done to backlinks."
+msgstr "Здесь вы можете установить то, что необходимо для обратных ссылок."
+
+#: inc/nxs_class_snap.php:535
+msgid "URL Parameters"
+msgstr "URL Параметры"
+
+#: inc/nxs_class_snap.php:412
+msgid "Autoposting Filters"
+msgstr "Фильтры Авто-размещения"
+
+#: inc/nxs_class_snap.php:415
+msgid "You can setup general criteria for what posts should be autoposted"
+msgstr "Вы можете настроить общие критерии того, какие сообщения должны быть авто-размещены. "
+
+#: inc/nxs_class_snap.php:422
+msgid "[Not Recomended] Apply Filters at the time of autoposting, not at the time of publishing. Please use only if your posts are not ready at the time of publishing."
+msgstr "[Не Рекомендуется] Применить фильтры во время авто-размещения, а не во время публикования. Используйте только в том случае, если ваши сообщения еще не готовы к публикации."
+
+#: inc/nxs_class_snap.php:384
+msgid "Show checked networks expanded and unchecked collapsed"
+msgstr "Показывать отмеченные сети развернутыми, а неотмеченные свернутыми"
+
+#: inc/nxs_class_ntlist.php:172
+msgid "Login"
+msgstr "Логин"
+
+#: inc/nxs_class_ntlist.php:154
+msgid "Image size"
+msgstr "Размер изображения"
+
+#: inc/nxs_class_ntlist.php:151 inc/nxs_class_snap.php:418
+msgid "Filter Posts (Only posts that meet the following criteria will be autoposted)"
+msgstr "Фильтровать сообщения (только записи, отвечающие заданным критериям, будут авто-размещены)"
+
+#: inc/nxs_class_ntlist.php:131
+msgid "Use Shortened URL for link shares"
+msgstr "Использовать укороченную URL для ссылок"
+
+#: inc/nxs_class_mgmt.php:248
+msgid "Most common issues/questions are already answered in the"
+msgstr "Ответы на самые распостраненные проблемы/воспросы здесь"
+
+#: inc/nxs_class_mgmt.php:202
+msgid "Quick Posts History"
+msgstr "История быстрых сообщений"
+
+#: inc/nxs_class_mgmt.php:201 inc/nxs_functions_wp.php:249
+msgid "New Quick Post"
+msgstr "Новок быстрое сообщение"
+
+#: inc/nxs_class_mgmt.php:193
+msgid "View Log"
+msgstr "Посмотреть Лог"
+
+#: inc/nxs_class_mgmt.php:193
+msgid "Plugin Settings"
+msgstr "Настройки Плагина"
+
+#: inc/nxs_class_mgmt.php:193
+msgid "Configure Auto-Reposter"
+msgstr "Настройка Авто-Репостера"
+
+#: inc/nxs_class_mgmt.php:193
+msgid "Configure Social Networks"
+msgstr "Настройка Социальных Сетей"
+
+#: inc/nxs_class_mgmt.php:183
+msgid "Add new Reposter Action"
+msgstr "Добавить новый Репостер "
+
+#: inc/nxs_class_mgmt.php:181
+msgid "Here you can configure automatic repost of the existing posts to your social network accounts."
+msgstr "Здесь вы можете настроить автоматический репост существующих записей в аккаунты ваших социальных сетей. "
+
+#: inc/nxs_class_mgmt.php:167
+msgid "Please add at least one account"
+msgstr "Пожалуйста, добавьте как минимум один аккаунт"
+
+#: inc/nxs_class_mgmt.php:160
+msgid "SNAP Help/Support"
+msgstr "SNAP Помощь/Поддержка"
+
+#: inc/nxs_class_mgmt.php:159
+msgid "Social Networks Autoposter (SNAP) Help/Support"
+msgstr "Social Networks Autoposter (SNAP) Помощь/Поддержка"
+
+#: inc/nxs_class_mgmt.php:156
+msgid "SNAP Log/History"
+msgstr "SNAP Лог/История"
+
+#: inc/nxs_class_mgmt.php:155
+msgid "Social Networks Autoposter (SNAP) Log/History"
+msgstr "Social Networks Autoposter (SNAP) Лог/История"
+
+#: inc/nxs_class_snap.php:879
+msgid "Have troubles/problems/found a bug?"
+msgstr "Испытываете трудности/проблемы/нашли баг?"
+
+#: inc/nxs_class_snap.php:876
+msgid "Solutions for the most common problems"
+msgstr "Решение для наиболее распространенных проблем"
+
+#: inc/nxs_class_snap.php:383
+msgid "Expanded"
+msgstr "Развернутые"
+
+#: inc/nxs_class_snap.php:382
+msgid "Collapsed"
+msgstr "Свернутые"
+
+#: inc/nxs_class_snap.php:381
+msgid "How to show list of networks on the \"Add New Post\" page"
+msgstr "Как показывать список сетей на \"Добавить новую Запись\" странице"
+
+#: inc/nxs_class_snap.php:378
+msgid "Please don't confuse me, just show the plain list"
+msgstr "Пожалуйста, не усложняйте, просто покажите мне обычный список"
+
+#: inc/nxs_class_snap.php:378
+msgid "Plain"
+msgstr "Обычный"
+
+#: inc/nxs_class_snap.php:168
+msgid "Add new account"
+msgstr "Добавить новый аккаунт"
+
+#: inc/nxs_class_ntlist.php:498
+msgid "SUCCESS"
+msgstr "Успех"
+
+#: inc/nxs_class_ntlist.php:379
+msgid "Options"
+msgstr "Опции"
+
+#: inc/nxs_class_ntlist.php:367
+msgid "Now"
+msgstr "Сейчас"
+
+#: inc/nxs_class_ntlist.php:367 inc/nxs_class_ntlist.php:381
+msgid "Post"
+msgstr "Разместить"
+
+#: inc/nxs_class_ntlist.php:359
+msgid "Autoposted"
+msgstr "Авто-размещено"
+
+#: inc/nxs_class_ntlist.php:359
+msgid "Manually"
+msgstr "Вручную "
+
+#: inc/nxs_class_ntlist.php:354 inc/nxs_class_ntlist.php:384
+msgid "[Post Link]"
+msgstr "[Разместить ссылку]"
+
+#: inc/nxs_functions_adv.php:104
+msgid "Done. All SNAP data has been removed from posts."
+msgstr "Выполнено. Вся SNAP дата была удалена из записей."
+
+#: inc/nxs_functions.php:430
+msgid "is not compatible with SNAP v4. Please upgrade it to version 1.4.0 oh higher"
+msgstr "Не совместимо со SNAP v4. Пожалуйста, обновите на версию 1.4.0 или новее. "
+
+#: inc/nxs_functions.php:430
+msgid "SNAP Pro Upgrade Helper Version"
+msgstr "SNAP Pro Upgrade Helper Version"
+
+#: inc/nxs_class_snap.php:1480
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 штука"
+msgstr[1] "%s штуки"
+msgstr[2] "%s штук"
+
+#: inc/nxs_class_snap.php:1242
+msgid "Inactive"
+msgstr "Неактивный"
+
+#: inc/nxs_class_snap.php:900
+msgid "Clear Query"
+msgstr "Очистить очередь"
+
+#: inc/nxs_class_snap.php:899
+msgid "this will remove all SNAP data that was saved in posts."
+msgstr "Это удалит все данные SNAP, которые были сохранены в записях."
+
+#: inc/nxs_class_snap.php:899
+msgid "Remove all SNAP metainfo in the posts"
+msgstr "Удалить всю SNAP мета информацию в записях"
+
+#: inc/nxs_class_snap.php:898
+msgid "this will replace your current settings and configured networks with backup saved on"
+msgstr "Это заменит все ваши настоящие настройки и сконфигурирует сети с сохранением резервного копирования (backup). "
+
+#: inc/nxs_class_snap.php:898
+msgid "Restore settings from the last backup"
+msgstr "Восстановить настройки из последней резервной копии"
+
+#: inc/nxs_class_snap.php:896
+msgid "Don't click unless you know what are you doing"
+msgstr "Нажимать ТОЛЬКО если вы уверены в том, что делаете"
+
+#: inc/nxs_class_snap.php:896
+msgid "Some evil buttons:"
+msgstr "Некоторые ужасные кнопки:"
+
+#: inc/nxs_class_snap.php:886
+msgid "Like the Plugin? Would you like to support developers?"
+msgstr "Понравился Плагин? Хотите поддержать разработчиков?"
+
+#: inc/nxs_class_mgmt.php:107
+msgid "SNAP Premium API"
+msgstr "SNAP Premium API"
+
+#: inc/nxs_class_mgmt.php:106
+msgid "SNAP \"Pro\" Version"
+msgstr "SNAP \"Pro\" Version"
+
+#: inc/nxs_class_mgmt.php:104
+msgid "SNAP Info"
+msgstr "Иформация о SNAP "
+
+#: inc/nxs_class_mgmt.php:83
+msgid "Log/History"
+msgstr "Лог/История"
+
+#: inc/nxs_class_mgmt.php:81 inc/nxs_class_ntlist.php:359
+msgid "Reposter"
+msgstr "Репостер"
+
+#: inc/nxs_class_mgmt.php:80
+msgid "Query/Timeline"
+msgstr "Очередь/График"
+
+#: inc/nxs_class_mgmt.php:79 inc/nxs_functions_wp.php:245
+msgid "Quick Post"
+msgstr "Быстрая Запись"
+
+#: inc/nxs_class_mgmt.php:64
+msgid "Save Changes"
+msgstr "Сохранить Изменения"
+
+#: inc/nxs_class_mgmt.php:62
+msgid "I undestand that all current settings will be deleted"
+msgstr "Я согласен, что все текущие настройки будут удалены"
+
+#: inc/nxs_class_mgmt.php:61
+msgid "Selecting a different site will <b>delete</b> all current settings"
+msgstr "Выбор другого сайта <b>удалит</b> все текущие настройки "
+
+#: inc/nxs_class_mgmt.php:60
+msgid "You already have SNAP Configured on: "
+msgstr "У вас уже сконфигурирован SNAP на:"
+
+#: inc/nxs_class_mgmt.php:57
+msgid "Please select a site where you would like to use plugin: "
+msgstr "Пожалуйста, выберите сайт, на котором вы бы хотели использовать плагин:"
+
+#: inc/nxs_class_mgmt.php:55
+msgid "Get SNAP Pro Multiuser Version"
+msgstr "Получить SNAP Pro Multiuser версию"
+
+#: inc/nxs_class_flt.php:689 inc/nxs_class_flt.php:755
+msgid "Operator"
+msgstr "Оператор"
+
+#: inc/nxs_class_flt.php:684
+msgid "Custom Field Name"
+msgstr "Имя Произвольных Полей"
+
+#: inc/nxs_class_flt.php:703 inc/nxs_class_flt.php:769
+msgid "Condition"
+msgstr "Состояние"
+
+#: inc/nxs_class_flt.php:668
+msgid "Custom Fields"
+msgstr "Произвольные Поля"
+
+#: inc/nxs_class_flt.php:657
+msgid "Please enter the search query"
+msgstr "Пожалуйста, введите поиск"
+
+#: inc/nxs_class_flt.php:654 inc/nxs_class_flt.php:657
+msgid "Search"
+msgstr "Искать"
+
+#: inc/nxs_class_flt.php:643
+msgid "Select Page/Post by Parent Name"
+msgstr "Выберите страницу/Запись по имени родителя"
+
+#: inc/nxs_class_flt.php:643
+msgid "Page/Post Parent Name"
+msgstr "Родительское имя Страницы/Записи "
+
+#: inc/nxs_class_flt.php:638
+msgid "Select page by name"
+msgstr "Выберите страницу по имени"
+
+#: inc/nxs_class_flt.php:638
+msgid "Page Name"
+msgstr "Имя страницы"
+
+#: inc/nxs_class_flt.php:633
+msgid "Select post by name"
+msgstr "Выберите запись по имени"
+
+#: inc/nxs_class_flt.php:633
+msgid "Post Name"
+msgstr "Имя записи"
+
+#: inc/nxs_class_flt.php:627
+msgid "Select post"
+msgstr "Выберите запись"
+
+#: inc/nxs_class_flt.php:577 inc/nxs_class_flt.php:584
+msgid "Author"
+msgstr "Автор"
+
+#: inc/nxs_class_flt.php:570
+msgid "Standard Blogpost, Image, Audio, Video, Status, Quote, etc.."
+msgstr "Стандартный Блогпост, Изображение, Аудио, Видео, Статус, Цитата и т.д."
+
+#: inc/nxs_class_flt.php:570
+msgid "Formats"
+msgstr "Форматы"
+
+#: inc/nxs_class_flt.php:547
+msgid "Post Type, Post Format"
+msgstr "Типы Записей, Форматы Записей"
+
+#: inc/nxs_class_flt.php:565
+msgid "Post Types (Posts, Pages, Custom Post Types)"
+msgstr "Типы Записей (Записи, Страницы, Пользовательские Типы Записей)"
+
+#: inc/nxs_class_flt.php:592 inc/nxs_class_flt.php:609
+msgid "Exact Posts and Pages"
+msgstr "Точные Записи и Страницы"
+
+#: inc/nxs_class_flt.php:599 inc/nxs_class_flt.php:627
+msgid "Post/Page/Custom Post Type"
+msgstr "Тип Записи/Страницы/Пользовательский Тип Записи"
+
+#: inc/nxs_class_flt.php:369
+msgid "Turn Reposting Off"
+msgstr "Отключить Репост"
+
+#: inc/nxs_class_flt.php:365
+msgid "Randomize posting time: &#177;"
+msgstr "Выбрать время размещения случайным образом: &#177;"
+
+#: inc/nxs_class_flt.php:359
+msgid "Post every:"
+msgstr "Размещать каждые:"
+
+#: inc/nxs_class_flt.php:342
+msgid "Info/Stats"
+msgstr "Информация/Статистика"
+
+#: inc/nxs_class_flt.php:325
+msgid "Get posts:"
+msgstr "Получить Записи:"
+
+#: inc/nxs_class_flt.php:95
+msgid "Add new Filter"
+msgstr "Добавить новый Фильтр"
+
+#: inc/nxs_class_flt.php:320
+msgid "Reposter Action Title:"
+msgstr "Заголовок Репостера:"
+
+#: inc/nxs_class_flt.php:318
+msgid "Activate this Reposter Action"
+msgstr "Активировать действие Репостера"
+
+#: inc/nxs_class_flt.php:40
+msgid "What to post (Posts, Pages, etc.. selection)"
+msgstr "Что размещать (Записи, Страницы, т.д.)"
+
+#: inc/nxs_class_flt.php:39
+msgid "Where to post (Network Selection)"
+msgstr "Куда размещать (выбор сети)"
+
+#: inc/nxs_class_flt.php:38
+msgid "When to post (Schedule)"
+msgstr "Когда размещать (расписание)"
+
+#: inc/nxs_class_flt.php:37
+msgid "Title and Options"
+msgstr "Название и Опции "
+
+#: NextScripts_SNAP.php:68
+msgid "NextScripts AutoPoster"
+msgstr "NextScripts AutoPoster"
+
+#: inc/nxs_class_flt.php:94
+msgid "Add Filter"
+msgstr "Добавить Фильтр"
+
+#: inc/nxs_class_flt.php:93
+msgid "Filter"
+msgstr "Фильтр"
+
+#: inc/nxs_class_ntlist.php:173
+msgid "Password"
+msgstr "Пароль"
+
+#: inc/nxs_class_ntlist.php:172
+msgid "Email"
+msgstr "Email"
+
+#: inc/nxs_class_mgmt.php:152
+msgid "SNAP Settings"
+msgstr "SNAP Настройки"
+
+#: inc/nxs_class_mgmt.php:151
+msgid "Social Networks Autoposter (SNAP) Settings"
+msgstr "Social Networks Autoposter (SNAP) Настройки"
+
+#: inc/nxs_class_mgmt.php:146
+msgid "Auto-Reposter Configuration"
+msgstr "Конфигурация Авто-Репостера "
+
+#: inc/nxs_class_mgmt.php:143
+msgid "Social Networks Autoposter (SNAP) Auto-Reposter"
+msgstr "Social Networks Autoposter (SNAP) Авто-Репостер"
+
+#: inc/nxs_class_mgmt.php:128
+msgid "SNAP Query"
+msgstr "SNAP очередь"
+
+#: inc/nxs_class_mgmt.php:127
+msgid "Social Networks Autoposter (SNAP) Query"
+msgstr "Social Networks Autoposter (SNAP) Очередь"
+
+#: inc/nxs_class_mgmt.php:123
+msgid "Social Networks Autoposter (SNAP) Users/Sites Management"
+msgstr "Social Networks Autoposter (SNAP) Управление Пользователями/Сайтами "
+
+#: inc/nxs_class_mgmt.php:120 inc/nxs_class_mgmt.php:124
+msgid "SNAP Accounts"
+msgstr "SNAP Аккаунты"
+
+#: inc/nxs_class_mgmt.php:119
+msgid "Social Networks Autoposter (SNAP) Accounts"
+msgstr "Social Networks Autoposter (SNAP) Аккаунты"
+
+#: inc/nxs_class_mgmt.php:115
+msgid "Please add at least one account..."
+msgstr "Пожалуйста, добавьте как минимум один аккаунт..."
+
+#: inc/nxs_class_mgmt.php:114
+msgid "New Post to Social Networks"
+msgstr "Новый Пост в Социальные Сети"
+
+#: inc/nxs_class_mgmt.php:110 inc/nxs_class_mgmt.php:181
+msgid "Instructions"
+msgstr "Инструкции"
+
+#: inc/nxs_class_mgmt.php:108
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/nxs_class_flt.php:539
+msgid "Add more"
+msgstr "Добавить еще"
+
+#: inc/nxs_class_flt.php:524
+msgid "Posts newer than"
+msgstr "Записи ранее чем"
+
+#: inc/nxs_class_flt.php:529
+msgid " and older than"
+msgstr "и позднее чем"
+
+#: inc/nxs_class_flt.php:517
+msgid "Years"
+msgstr "Годы"
+
+#: inc/nxs_class_flt.php:516
+msgid "Months"
+msgstr "Месяцы"
+
+#: inc/nxs_class_flt.php:515
+msgid "Weeks"
+msgstr "Недели"
+
+#: inc/nxs_class_flt.php:506
+msgid "Dates - Older/Newer"
+msgstr "Даты - Поздние/Ранние"
+
+#: inc/nxs_class_flt.php:498 inc/nxs_class_flt.php:717
+#: inc/nxs_class_flt.php:780
+msgid "Add More"
+msgstr "Добавить Еще"
+
+#: inc/nxs_class_flt.php:491 inc/nxs_class_flt.php:534
+#: inc/nxs_class_flt.php:679 inc/nxs_class_flt.php:740
+#: inc/nxs_class_ntlist.php:56
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/nxs_class_flt.php:487
+msgid " to "
+msgstr "в"
+
+#: inc/nxs_class_flt.php:484
+msgid " posts from "
+msgstr "записи из"
+
+#: inc/nxs_class_flt.php:471
+msgid "Timeframes (Exact Dates)"
+msgstr "Временные Промежутки (Точные Даты)"
+
+#: inc/nxs_class_flt.php:461
+msgid "Tags"
+msgstr "Тeги"
+
+#: inc/nxs_class_flt.php:377
+msgid "You can chose what to do when reposting is finished: \"Stop\", \"Repeat\", or \"Wait for new posts\". You can set reposting only to specific days and hours."
+msgstr "Вы можете выбрать, что должен делать Репостер, когда он закончил работу: \"Остановиться\", \"Начать сначала\", \"Дождаться новых записей\". Вы можете настроить Репостер на определенное время и даты. "
+
+#: inc/nxs_class_flt.php:376
+msgid "[Pro Only]"
+msgstr "[Pro Only]"
+
+#: inc/nxs_class_mgmt.php:34 inc/nxs_class_mgmt.php:116
+msgid "Dashboard"
+msgstr "Приборная панель"
+
+#: inc/nxs_class_mgmt.php:33
+msgid "Welcome to the Social Networks Autoposter (SNAP)"
+msgstr "Добро пожаловать в Social Networks Autoposter (SNAP)"
+
+#: inc/nxs_class_mgmt.php:28 inc/nxs_class_mgmt.php:84
+msgid "Help/Support"
+msgstr "Помощь/Поддержка"
+
+#: inc/nxs_class_mgmt.php:26
+msgid "Users/Sites"
+msgstr "Пользователи/сайты"
+
+#: inc/nxs_class_mgmt.php:25 inc/nxs_class_mgmt.php:78
+#: inc/nxs_class_mgmt.php:167
+msgid "Accounts"
+msgstr "Аккаунты"
+
+#: inc/nxs_class_flt.php:809 inc/nxs_class_flt.php:815
+#: inc/nxs_class_flt.php:831
+msgid "Please select from the list..."
+msgstr "Пожалуйста, выберите из списка..."
+
+#: inc/nxs_class_flt.php:763
+msgid "Select Terms"
+msgstr "Выберите Условия"
+
+#: inc/nxs_class_flt.php:763
+msgid "Terms"
+msgstr "Условия"
+
+#: inc/nxs_class_flt.php:759
+msgid "Child Terms"
+msgstr "Подраздел условий "
+
+#: inc/nxs_class_flt.php:751
+msgid "Taxonomy"
+msgstr "Систематизация"
+
+#: inc/nxs_class_flt.php:728
+msgid "Yes"
+msgstr "Да"
+
+#: inc/nxs_class_flt.php:728
+msgid "No"
+msgstr "Нет"
+
+#: inc/nxs_class_flt.php:726
+msgid "Taxonomies"
+msgstr "Систематизации"
+
+#: inc/nxs_class_flt.php:692
+msgid "Custom Field Value"
+msgstr "Значение настраиваемого поля"
+
+#: inc/nxs_class_flt.php:92 inc/nxs_class_flt.php:102
+#: inc/nxs_class_ntlist.php:149
+msgid "Filters"
+msgstr "Фильтры"
+
+#: inc/nxs_class_flt.php:100
+msgid "Filter not found"
+msgstr "Фильтры не найдены"
+
+#: inc/nxs_class_flt.php:99
+msgid "Find Filters"
+msgstr "Найти фильтры"
+
+#: inc/nxs_class_flt.php:98
+msgid "View Filter"
+msgstr "Показать фильтры"
+
+#: inc/nxs_class_flt.php:97
+msgid "New Filter"
+msgstr "Новый фильтр"
+
+#: inc/nxs_class_flt.php:96
+msgid "Edit Filter"
+msgstr "Изменить фильтр"
+
+#: inc/nxs_class_flt.php:311 inc/nxs_functions_wp.php:711
+msgid "Posted"
+msgstr "Отправлено"
+
+#: inc/nxs_class_flt.php:311
+msgid "Total Posts"
+msgstr "Всего сообщений"
+
+#: inc/nxs_class_flt.php:308 inc/nxs_class_flt.php:309
+msgid "Never"
+msgstr "Никогда"
+
+#: inc/nxs_class_flt.php:101
+msgid "Filter not found in trash"
+msgstr "Фильтры в корзине не найдены"
+
+#: inc/nxs_class_flt.php:311
+msgid "was reposted on:"
+msgstr "Репост был сделан в:"
+
+#: inc/nxs_class_flt.php:311
+msgid "Current Wordpress Time"
+msgstr "Текущее время Wordpress"
+
+#: inc/nxs_class_flt.php:311
+msgid "Next post will be"
+msgstr "Следующий пост будет "
+
+#: inc/nxs_functions_wp.php:157
+msgid "Wrong key, please contact support"
+msgstr "Неправильный ключ, пожалуйста, обратитесь в службу поддержки"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the Title of the post"
+msgstr "Вставляет Название записи"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the URL of the post"
+msgstr "Вставляет ссылку на запись"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the <b>shortened URL</b> of your post"
+msgstr "Вставляет <b>короткую ссылку<b> вашей записи"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the featured image URL"
+msgstr "Вставляет ссылку на миниатюру записи"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the excerpt of the post (processed)"
+msgstr "Вставляет цитату поста (преобразованную)"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the excerpt of the post (as typed)"
+msgstr "Вставляет цитату поста (непреобразованную)"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the text till the &lt;!--more--&gt; tag or first N words of the post"
+msgstr "Вставляет текст до тега &lt;!--more--&gt; или первые N слов записи"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the processed body(text) of the post"
+msgstr "Вставляет преоразованный текст записи"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the body(text) of the post as typed"
+msgstr "Вставляет текст непреобразованной записи"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts post tags"
+msgstr "Вставляет таги записи"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts post categories"
+msgstr "Вставляет категории записи"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts post tags as hashtags"
+msgstr "Вставляет таги записи в виде hashtags"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts post categories as hashtags"
+msgstr "Вставляет категории записи в виде hashtags"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the author's name"
+msgstr "Вставляет имя автора"
+
+#: inc/nxs_functions_wp.php:289
+msgid "Inserts the the Blog/Site name"
+msgstr "Вставляет имя Блога/сайта"
+
+#: inc/nxs_class_ntlist.php:166
+msgid "Posting Delay"
+msgstr "Задержка размещения"
+
+#: inc/nxs_functions_wp.php:418
+msgid "Show all"
+msgstr "Показать все"
+
+#: inc/nxs_functions_wp.php:427
+msgid "URL to use:"
+msgstr "Ссылка для использования:"
+
+#: inc/nxs_functions_wp.php:428
+msgid "Post URL or globally defined URL will be used"
+msgstr "Вставьте ссылку или будет использована ссылка, определенная в настройках"
+
+#: inc/nxs_class_ntlist.php:119 inc/nxs_class_ntlist.php:139
+#: inc/nxs_class_ntlist.php:149
+msgid "[Instructions]"
+msgstr "[Инструкции]"
+
+#: inc/nxs_class_flt.php:360 inc/nxs_class_flt.php:514
+msgid "Days"
+msgstr "Дней"
+
+#: inc/nxs_class_flt.php:361 inc/nxs_class_flt.php:519
+msgid "Hours"
+msgstr "Часов"
+
+#: inc/nxs_class_flt.php:311
+msgid "Last post"
+msgstr "Последняя запись"
+
+#: inc-cl/wl.php:393
+msgid "Only selected categories will be autoposted to this account"
+msgstr "Только выбранные категории будут авторазмещены на этом аккаунте"
+
+#: inc/nxs_class_flt.php:456 inc-cl/wl.php:388 inc-cl/wl.php:389
+msgid "Categories"
+msgstr "Категории"
+
+#: inc-cl/pn.php:71
+msgid "Video will be pinned instead of featured image. Only Youtube is supported at this time."
+msgstr "Видео будет использовано вместо миниатюры записи. Только Youtube поддерживается в настоящее время."
+
+#: inc-cl/wl.php:473
+msgid "Text Message Format:"
+msgstr "Формат текста сообщения:"
+
+#: inc-cl/rd.php:55 inc-cl/rd.php:92 inc-cl/rd.php:113
+msgid "Link Post"
+msgstr "ссылка записи"
+
+#: inc-cl/rd.php:57
+msgid "set the text format below"
+msgstr "настроить формат текста "
+
+#: inc-cl/tr.php:188
+msgid "Text Post. Title Format:"
+msgstr "Текст сообщения. Формат заголовка:"
+
+#: inc-cl/tw.php:33
+msgid "Auto Import of Replies and Mentions:"
+msgstr "Авто-импортирование Ответов и Упоминаний:"
+
+#: inc-cl/tw.php:35
+msgid "Plugin could grab Replies and Mentions from Twitter and import them as Wordpress Comments"
+msgstr "Плагин может собирать Ответы и Упоминания из Twitter и импортировать их как комментарии Wordpress"
+
+#: inc-cl/tw.php:37
+msgid "Import Twitter Replies"
+msgstr "импортировать Ответы из Twitter"
+
+#: inc-cl/tw.php:39
+msgid "Import Twitter Mentions"
+msgstr "импортировать Упоминания из Twitter"
+
+#: inc-cl/vk.php:39
+msgid "<b>Authorize Your vKontakte(VK) Account</b>. Please click \"Update Settings\" to be able to Authorize your account."
+msgstr "<b>авторизовать ваш аккаунт vKontakte(VK)</b>. Пожалуйста, нажмите \"Обновить настройки\" чтобы получить возможность авторизовать аккаунт."
+
+#: inc-cl/vk.php:41
+msgid "Your vKontakte(VK) Account has been authorized."
+msgstr "Ваш аккаунт vKontakte(VK) был авторизован."
+
+#: inc/nxs_class_ntlist.php:139 inc-cl/vk.php:55 inc-cl/vk.php:101
+#: inc-cl/vk.php:123
+msgid "Post Types"
+msgstr "Типы сообщений"
+
+#: inc-cl/lj.php:39 inc-cl/vb.php:38
+msgid "Tags from the blogpost will be auto posted to LiveJournal"
+msgstr "Теги из записи будут авто-размещены в LiveJournal "
+
+#. Author of the plugin/theme
+msgid "NextScripts"
+msgstr "Другие скрипты"
+
+#. Plugin Name of the plugin/theme
+msgid "NextScripts: Social Networks Auto-Poster"
+msgstr "Социальные сети Авто-пост"
+
+#: inc/nxs_class_flt.php:369
+msgid "When finished"
+msgstr "По окончании"
+
+#: inc/nxs_class_ntlist.php:167
+msgid "Not Compatible with \"Publish Immediately\""
+msgstr "Не совместим с \"Опубликовать немедленно\""
+
+#: inc-cl/sc.php:146 inc-cl/sc.php:168
+msgid "Post as \"Image post\""
+msgstr "Опубликовать в качестве \"Записи с изображением\""
+
+#: inc/nxs_class_flt.php:350
+msgid "Your WP Cron is not working correctly. Auto Reposting service is active by force. <br/> This might cause problems. Please see the test results and recommendations"
+msgstr "Ваш WP Cron работает некорректно. Сервис авто репостинга принудительно активирован. <br/> Это может привести к возникновению проблем. Пожалуйста, ознакомьтесь с результатами теста и рекомендациями."
+
+#: inc-cl/sc.php:115
+msgid "Add blogpost to message as an attachment"
+msgstr "Прикрепить запись wordpress к сообщению в качестве вложения"
+
+#: inc-cl/pn.php:71
+msgid "If post has a video use it instead of image."
+msgstr "Если пост имеет видео, использовать его вместо картинки"
+
+#: inc-cl/ln.php:18 inc-cl/ln.php:51 inc-cl/ln.php:67 inc-cl/tg.php:18
+#: inc-cl/tg.php:52 inc-cl/tg.php:70 inc-cl/tw.php:30 inc-cl/tw.php:79
+#: inc-cl/wb.php:39 inc-cl/wb.php:77 inc-cl/wb.php:94
+msgid "Attach Image to the Post"
+msgstr "Прикрепить картинку к сообщению "
+
+#. Author URI of the plugin/theme
+msgid "https://www.nextscripts.com"
+msgstr "http://www.nextscripts.com"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.nextscripts.com/social-networks-auto-poster-for-wordpress"
+msgstr "http://www.nextscripts.com/social-networks-auto-poster-for-wordpress"
+
+#: inc/nxs_class_flt.php:352
+msgid "Auto Reposting service is Disabled. Your WP Cron is not working correctly. Please see the test results and recommendations"
+msgstr "Auto Репост Отключен. Ваш WP Cron не работает должным образом. Пожалуйста, ознакомьтесь с результатами теста и рекомендациями"
+
+#: inc-cl/ok.php:28 inc-cl/xi.php:107 inc-cl/xi.php:209
+msgid "Post link to the blogpost"
+msgstr "Разместить ссылку на BlogPost"
+
+#: inc/nxs_class_mgmt.php:82 inc/nxs_functions_wp.php:22
+#: inc/nxs_functions_wp.php:30
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/nxs_class_snap.php:934 inc/nxs_functions_wp.php:417
+#: inc/nxs_functions_wp.php:428 inc-cl/li.php:285
+msgid "Auto"
+msgstr "авто"
+
+#: inc/nxs_class_snap.php:936 inc/nxs_functions_wp.php:430
+msgid "URL:"
+msgstr "Ссылка:"
+
+#: inc/nxs_class_flt.php:362 inc/nxs_class_flt.php:366
+#: inc/nxs_class_flt.php:518 inc/nxs_class_snap.php:298
+msgid "Minutes"
+msgstr "Минут"
+
+#: inc/nxs_class_snap.php:297
+msgid "Randomize posting time &#177;"
+msgstr "Размещать случайным образом &#177;"
+
+#: inc/nxs_functions_adv.php:278 inc/nxs_functions_adv.php:279
+#: inc/nxs_functions_adv.php:281
+msgid "N/A"
+msgstr "N/A"
+
+#: inc/nxs_functions_adv.php:278 inc/nxs_functions_adv.php:279
+#: inc/nxs_functions_adv.php:281
+msgid " MByte"
+msgstr " MByte"
+
+#: inc/nxs_functions_adv.php:282
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: inc/nxs_functions_adv.php:284
+msgid "Memory usage"
+msgstr "Количество использованной памяти"
+
+#: inc/nxs_class_snap.php:222
+msgid "Reposter is activated for this account"
+msgstr "Перепост активирован для этого аккаунта"
+
+#: inc/nxs_class_snap.php:200
+msgid "Import Settings"
+msgstr "Импортировать настройки"
+
+#: inc/nxs_class_snap.php:267
+msgid "How to make auto-posts?"
+msgstr "Как сделать авто-записи?"
+
+#: inc/nxs_class_snap.php:267 inc-cl/fb.php:281 inc-cl/fb.php:290
+#: inc-cl/fb.php:396 inc-cl/gp.php:104 inc-cl/ig.php:24 inc-cl/vk.php:47
+#: inc-cl/vk.php:97 inc-cl/vk.php:115
+msgid "What's the difference?"
+msgstr "В чем разница?"
+
+#: inc/nxs_class_snap.php:269
+msgid "The difference between \"Immediately\" and \"Scheduled\""
+msgstr "Разница между \"Немедленно\" and \"Запланированно\""
+
+#: inc/nxs_class_snap.php:270
+msgid "<b>\"Immediately\"</b> - Once you click \"Publish\" button plugin starts pushing your update to configured social networks. At this time you need to wait and look at the turning circle. Some APIs are pretty slow, so you have to wait and wait and wait until all updates are posted and page released back to you."
+msgstr "<b>\"Немедленно\"</b> - После нажатия кнопки \"Опубликовать\"б плагин начинает размещать ваши обновления на настроенные социальные сети. В это время вам необходимо ждать и смотреть на крутящийся кружок. Некоторые API довольно медленные, поэтому вам придется ждать, ждать и ждать, пока все обновления не разместятся, и страница не вернется для использования."
+
+#: inc/nxs_class_snap.php:271
+msgid "<b>\"Scheduled\"</b> - Releases the page immediately back to you, so you can proceed with something else and it schedules all auto-posting jobs to your WP-Cron. This is much faster and much more efficient, but it could not work if your WP-Cron is disabled or broken."
+msgstr "<b>\"Запланированно\"</b> - Возвращает страницу для использования немедленно, таким образом у вас есть возможность продолжать работу, поскольку все авторазмещения будут сделаны вашим WP-Cron. Этот способ более эргономичный, но он не будет работать, если ваш WP-Cron отключен или сломан. "
+
+#: inc/nxs_class_snap.php:276
+msgid "Publish Immediately"
+msgstr "Разместить немедленно"
+
+#: inc/nxs_class_snap.php:276
+msgid "No WP Cron will be used. Choose if WP Cron is disabled or broken on your website"
+msgstr "WP Cron не будет использован. Выбрать, если WP Cron отключен или слобман на вашем сайте"
+
+#: inc/nxs_class_snap.php:280
+msgid "Use WP Cron to Schedule autoposts"
+msgstr "Использовать WP Cron для планирования авторазмещений"
+
+#: inc/nxs_class_snap.php:280
+msgid "Recommended for most sites. Faster Performance - requires working WP Cron"
+msgstr "Рекомендуется для большинства сайтов. Для наиболее быстрой работы необходим работающий WP Cron"
+
+#: inc/nxs_class_snap.php:291
+msgid "Limit autoposting speed"
+msgstr "ограничить скорость авторазмещения"
+
+#: inc/nxs_class_snap.php:291
+msgid "Recommended for busy sites with a lot of new posts."
+msgstr "Рекомендовано для занятых сайтов со множеством новых записей."
+
+#: inc/nxs_class_snap.php:302
+msgid "What to do with the rest of the posts if there are more posts then daily limit?"
+msgstr "Что делать с остальными записями, если записей больше чем дневной лимит?"
+
+#: inc/nxs_class_snap.php:303
+msgid "Skip/Discard/Don't Autopost "
+msgstr "Пропустить/Удалить/Не размещать"
+
+#: inc/nxs_class_snap.php:304
+msgid "Schedule for tomorrow"
+msgstr "Запланировать на завтра"
+
+#: inc/nxs_class_snap.php:304
+msgid "Not recommended, may cause significant delays"
+msgstr "Не рекомендуется, может послужить причиной серьезных задержек"
+
+#: inc/nxs_class_snap.php:313
+msgid "User Privileges/Security"
+msgstr "Привелегии пользователя/Безопасность"
+
+#: inc/nxs_class_snap.php:317
+msgid "Skip User Security Verification."
+msgstr "Пропустить проверку настроек безопасности пользователя."
+
+#: inc/nxs_class_snap.php:318
+msgid "NOT Recommended, but useful in some situations. This will allow autoposting for everyone even for the non-existent users."
+msgstr "Не рекомендуется, но может быть полезным в некоторых ситуациях - позволяет автопост для всех, даже несуществующих пользователей. "
+
+#: inc/nxs_class_snap.php:320
+msgid "Who can make autoposts without seeing any auto-posting options?"
+msgstr "Кто может делать автопост, не видя настроек?"
+
+#: inc/nxs_class_snap.php:335
+msgid "Who can see auto-posting options on the \"New Post\" and \"Edit Post\" pages and make autoposts?"
+msgstr "Кто может видеть возможности автопоста на страницах  \"Новая запись\" и \"Отредактировать запись\", и иметь возможность авторазмещения записей?"
+
+#: inc/nxs_class_snap.php:430
+msgid "URL Shortener"
+msgstr "Укорачиватель ссылки"
+
+#: inc/nxs_class_snap.php:500
+msgid "Auto-Import comments from Social Networks"
+msgstr "Автоматически импортировать комментарии из социальных сетей"
+
+#: inc/nxs_class_snap.php:500 inc/nxs_class_snap.php:535
+msgid "New"
+msgstr "Новое"
+
+#: inc/nxs_class_snap.php:546
+msgid "Additional URL Parameters:"
+msgstr "Дополнительные параметры ссылки:"
+
+#: inc/nxs_class_snap.php:548
+msgid "You can use %NTNAME% for social network name, %NTCODE% for social network two-letter code, %ACCNAME% for account name,  %POSTID% for post ID,  %POSTTITLE% for post title, %SITENAME% for website name. <b>Any text must be URL Encoded</b><br/>Example: utm_source=%NTCODE%&utm_medium=%ACCNAME%&utm_campaign=SNAP%2Bfrom%2B%SITENAME%"
+msgstr "Вы можете использовать %NTNAME% для имени социальной сети, %NTCODE% для двух-буквенного кода социальной сети, %ACCNAME% для имени аккаунта, %POSTID% для ID записи,  %POSTTITLE% для названия записи, %SITENAME% для имени сайта. <b>Любой текст должен быть в URL кодировке </b><br/>Например: utm_source=%NTCODE%&utm_medium=%ACCNAME%&utm_campaign=SNAP%2Bfrom%2B%SITENAME%"
+
+#: inc/nxs_class_snap.php:552
+msgid "Auto-HashTags Settings"
+msgstr "настройка автоматических хэш-тегов"
+
+#: inc/nxs_class_snap.php:553
+msgid "How to generate hashtags if tag is longer then one word"
+msgstr "Как сгенерировать хэш-теги, если таг больше, чем одно слово"
+
+#: inc/nxs_class_snap.php:576
+msgid "%ANNOUNCE% tag settings"
+msgstr "настройка тега %ANNOUNCE% "
+
+#: inc/nxs_class_snap.php:577
+msgid "Plugin will take text untill the &lt;!--more--&gt; tag. Please specify how many characters should it get if &lt;!--more--&gt; tag is not found"
+msgstr "Плагин возьмет текст до тега &lt;!--more--&gt;. Пожалуйста, уточните как много символов он должен взять, если тег &lt;!--more--&gt; не найден"
+
+#: inc/nxs_class_snap.php:579
+msgid "How many characters:"
+msgstr "Как много символов:"
+
+#: inc/nxs_class_snap.php:584
+msgid "\"Open Graph\" Tags"
+msgstr "\"Open Graph\" теги"
+
+#: inc/nxs_class_snap.php:608
+msgid "Add Open Graph Tags"
+msgstr "Добавить \"Open Graph\" теги"
+
+#: inc/nxs_class_snap.php:613
+msgid "Default Image URL for og:image tag:"
+msgstr "Ссылка на артинку по умолчанию og:image tag:"
+
+#: inc/nxs_class_snap.php:622
+msgid "Advanced \"Featured\" Image Settings"
+msgstr "Расширенные  \"Featured\" настройки картинки"
+
+#: inc/nxs_class_snap.php:631
+msgid "Use advanced image finder"
+msgstr "Используйте расширенный поиск картинки"
+
+#: inc/nxs_class_snap.php:660
+msgid "Alternative \"Featured Image\" location"
+msgstr "Альтернативное расположение  \"Миниатюры записи\" "
+
+#: inc/nxs_class_snap.php:661
+msgid "Plugin uses standard Wordpress \"Featured Image\" by default. If your theme stores \"Featured Image\" in the custom field, please enter the name of it. Use prefix if your custom field has only partial location."
+msgstr "Плагин использует стандартную версию Wordpress \"Миниатюра записи\" по умолчанию. Если ваша тема сохраняет \"Миниатюру записи\" в произвольном поле, пожалуйста, введите его имя. Используйте префикс, если ваше произвольное поле имеет только часть адреса."
+
+#: inc/nxs_class_snap.php:663
+msgid "Custom field name:"
+msgstr "Имя произвольного поля:"
+
+#: inc/nxs_class_snap.php:665
+msgid "Set the name of the custom field that contains image info"
+msgstr "Введите имя произольного поля, которое содержит информацию картинки"
+
+#: inc/nxs_class_snap.php:668
+msgid "Custom field Array Path:"
+msgstr "Путь в массиве произвольного поля:"
+
+#: inc/nxs_class_snap.php:670 inc/nxs_class_snap.php:675
+msgid "Optional"
+msgstr "Необязательное"
+
+#: inc/nxs_class_snap.php:633
+msgid "Check this if your images could be found only in the fully processed posts. <br/>This feature could interfere with some plugins using post processing functions incorrectly. Your site could become messed up, have troubles displaying content or start giving you \"ob_start() [ref.outcontrol]: Cannot use output buffering in output buffering display handlers\" errors."
+msgstr "Отметьте, если ваша картинка может быть найдена только в полностью преобразованной записи.  <br/>Эта функция может вмешиваться в работу некотрых плагинов, которые используют преобразование записи некорректно. Ваш сайт может начать выдавать ошибки, терять контент или выдавать ошибку \"ob_start() [ref.outcontrol]: Cannot use output buffering in output buffering display handlers\"."
+
+#: inc/nxs_class_snap.php:670
+msgid "If your custom field contain an array, please enter the path to the image field. For example: ['images']['image']"
+msgstr "Если ваше произвольное поле содержит массив, пожалуйста, введите путь к картинке в этом массиве. Например:  ['images']['image']"
+
+#: inc/nxs_class_snap.php:673
+msgid "Custom field Image Prefix:"
+msgstr "Префикс произвольного поля картинки:"
+
+#: inc/nxs_class_snap.php:675
+msgid "If your custom field contain only the last part of the image path, please enter the prefix"
+msgstr "Если ваше произвольное поле содержит только последнюю часть пути к картинке, пожалуйста, введите префикс"
+
+#: inc/nxs_class_snap.php:711
+msgid "Send Email notification for all autoposting errors. No more then one email per hour will be sent."
+msgstr "Послать email-уведомление обо всех ошибках авто-поста. Все ошибки объединяются в одно сообщение, не больше чем одно сообщение в час. "
+
+#: inc/nxs_class_snap.php:714
+msgid "Email:"
+msgstr "Email:"
+
+#: inc/nxs_class_snap.php:715
+msgid "wp_mail will be used. Some email providers (gmail, hotmail) might have problems getting such mail"
+msgstr "wp_mail будет использован. Некоторые провайдеры (gmail, hotmail) могут иметь трудности а получении такого рода сообщений."
+
+#: inc/nxs_class_mgmt.php:222
+msgid "Enter your Activation Key"
+msgstr "Введите ключ активации"
+
+#: inc/nxs_class_mgmt.php:267
+msgid "Activation"
+msgstr "Активация"
+
+#: inc/nxs_class_mgmt.php:269
+msgid "Multiple Accounts Edition and Google+ and Pinterest Auto-Posting"
+msgstr "Multiple Accounts Edition и авто-размещение в Google+ и Pinterest "
+
+#: inc/nxs_class_mgmt.php:269
+msgid "You can find your key on this page"
+msgstr "Ваш ключ на этой странице"
+
+#: inc/nxs_class_mgmt.php:270
+msgid "Enter your Key"
+msgstr "Введите ваш ключ"
+
+#: inc/nxs_class_mgmt.php:272
+msgid "Your plugin will be automatically upgraded"
+msgstr "Ваш плагин будет автоматически обновлен"
+
+#: inc/nxs_class_mgmt.php:45 inc/nxs_class_mgmt.php:262
+#: inc/nxs_class_snap.php:837
+msgid "Plugin Version"
+msgstr "Версия плагина"
+
+#: inc/nxs_class_snap.php:934
+msgid "Post URL will be used"
+msgstr "ссылка записи будет использована"
+
+#: inc/nxs_class_snap.php:941
+msgid "If you made any changes to the format, please \"Update\" the post before reposting"
+msgstr "Если вы делали какие-либо изменения формата, пожалуйста \"Обновите\" запись до переразмещения "
+
+#: inc/nxs_class_flt.php:385 inc/nxs_functions_wp.php:745
+msgid "Check All"
+msgstr "Отметить все"
+
+#: inc/nxs_class_flt.php:385 inc/nxs_functions_wp.php:745
+msgid "Uncheck All"
+msgstr "Отменить все"
+
+#: inc/nxs_class_snap.php:1060
+msgid "NextScripts: Social Networks Auto Poster - Post Options"
+msgstr "NextScripts: Social Networks Auto Poster - настройки записи"
+
+#: inc/nxs_class_ntlist.php:28 inc/nxs_class_snap.php:985 inc-cl/wl.php:306
+msgid "accounts"
+msgstr "аккаунты"
+
+#: inc/nxs_class_ntlist.php:49 inc-cl/wl.php:314
+msgid "Auto-publish to"
+msgstr "Авто-разместить в"
+
+#: inc-cl/wl.php:315
+msgid "Attention requred. Unfinished setup"
+msgstr "Внимание. Не закончена установка"
+
+#: inc/nxs_class_ntlist.php:55 inc-cl/wl.php:315
+msgid "Show Settings"
+msgstr "Показать настройки"
+
+#: inc-cl/wl.php:316
+msgid "Remove Account"
+msgstr "Удалить аккаунт"
+
+#: inc-cl/wl.php:338
+msgid "Detailed %s Installation/Configuration Instructions"
+msgstr "Инструкции детальной %s Установки/Конфигурации "
+
+#: inc/nxs_class_ntlist.php:86 inc-cl/wl.php:339
+msgid "Account Nickname"
+msgstr "Название аккаунта"
+
+#: inc/nxs_class_ntlist.php:86 inc-cl/wl.php:339
+msgid "Just so you can easily identify it"
+msgstr "Для упрощения поиска и распознания"
+
+#: inc/nxs_class_ntlist.php:88 inc-cl/wl.php:344
+msgid "Account Info"
+msgstr "Информация аккаунта"
+
+#: inc/nxs_class_ntlist.php:89 inc-cl/wl.php:345
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: inc/nxs_class_ntlist.php:185 inc-cl/tr.php:100 inc-cl/wl.php:373
+msgid "Show format info"
+msgstr "Показать информацию формата"
+
+#: inc-cl/5p.php:61 inc-cl/bg.php:70 inc-cl/fl.php:73 inc-cl/li.php:150
+#: inc-cl/md.php:53 inc-cl/sc.php:79 inc-cl/wb.php:43 inc-cl/xi.php:198
+msgid "Please click \"Update Settings\" to be able to Authorize your account."
+msgstr "Пожалуйста, нажмите \"обновить настройки\", чтобы авторизировать ваш аккаунт."
+
+#: inc-cl/5p.php:64 inc-cl/bg.php:73 inc-cl/fb.php:233 inc-cl/fl.php:76
+#: inc-cl/li.php:153 inc-cl/li.php:163 inc-cl/md.php:56 inc-cl/sc.php:82
+#: inc-cl/vk.php:42 inc-cl/wb.php:46 inc-cl/xi.php:201
+msgid "You can"
+msgstr "Вы можете"
+
+#: inc-cl/5p.php:66 inc-cl/bg.php:75 inc-cl/fb.php:235 inc-cl/fl.php:79
+#: inc-cl/li.php:155 inc-cl/li.php:165 inc-cl/md.php:58 inc-cl/sc.php:85
+#: inc-cl/vk.php:44 inc-cl/wb.php:48 inc-cl/xi.php:203
+msgid "Authorize your account"
+msgstr "Авторизировать ваш аккаунт"
+
+#: inc/nxs_class_ntlist.php:95 inc-cl/wl.php:381
+msgid "Test your settings"
+msgstr "Проверить ваши настройки"
+
+#: inc/nxs_class_ntlist.php:95 inc-cl/wl.php:381
+msgid "Submit Test Post to %s"
+msgstr "Отправить тестовую запись в %s"
+
+#: inc-cl/wl.php:442
+msgid "publish to"
+msgstr "опубиковать в"
+
+#: inc/nxs_class_ntlist.php:354 inc/nxs_class_ntlist.php:359
+#: inc/nxs_class_ntlist.php:384 inc/nxs_class_ntlist.php:387 inc-cl/wl.php:448
+msgid "Posted on"
+msgstr "Опубликовано в"
+
+#: inc-cl/wl.php:461
+msgid "Include in \"Auto-Reposting\" to this network."
+msgstr "Включить в \"авто-размещение\" для этой сети."
+
+#: inc-cl/bg.php:56
+msgid "Log to your Blogger management panel and look at the URL of your blog: http://www.blogger.com/blogger.g?blogID=8959085979163812093#allposts. Your Blog ID will be: 8959085979163812093"
+msgstr "Залогиньтесь в вашу панель управления Blogger и найдите ссылку вашего блога: http://www.blogger.com/blogger.g?blogID=8959085979163812093#allposts. ID вашего блога будет: 8959085979163812093"
+
+#: inc-cl/tr.php:100
+msgid "Post Title Format"
+msgstr "Формат названия записи"
+
+#: inc-cl/5p.php:43 inc-cl/bg.php:86 inc-cl/di.php:29 inc-cl/fl.php:66
+#: inc-cl/md.php:50 inc-cl/sc.php:109 inc-cl/su.php:31 inc-cl/wp.php:29
+msgid "Post with tags"
+msgstr "Разместить с тагами"
+
+#: inc-cl/5p.php:94 inc-cl/5p.php:116 inc-cl/bg.php:118 inc-cl/bg.php:131
+#: inc-cl/da.php:47 inc-cl/da.php:59 inc-cl/di.php:51 inc-cl/di.php:60
+#: inc-cl/fl.php:104 inc-cl/fl.php:115 inc-cl/ip.php:45 inc-cl/ip.php:57
+#: inc-cl/li.php:337 inc-cl/li.php:365 inc-cl/lj.php:67 inc-cl/lj.php:79
+#: inc-cl/md.php:85 inc-cl/md.php:95 inc-cl/rd.php:90 inc-cl/rd.php:106
+#: inc-cl/sc.php:141 inc-cl/sc.php:160 inc-cl/tr.php:213 inc-cl/vb.php:63
+#: inc-cl/vb.php:75 inc-cl/wp.php:55 inc-cl/wp.php:66 inc-cl/xi.php:264
+#: inc-cl/xi.php:300
+msgid "Title Format:"
+msgstr "Формат заголовка:"
+
+#: inc-cl/wl.php:373
+msgid "Message text Format"
+msgstr "Формат текста сообщения"
+
+#: inc-cl/fb.php:284 inc-cl/fb.php:399 inc-cl/gp.php:106 inc-cl/gp.php:165
+#: inc-cl/gp.php:184 inc-cl/li.php:276 inc-cl/li.php:345 inc-cl/li.php:374
+#: inc-cl/ok.php:26 inc-cl/ok.php:62 inc-cl/ok.php:83 inc-cl/rd.php:57
+#: inc-cl/rd.php:94 inc-cl/rd.php:115 inc-cl/sc.php:113 inc-cl/sc.php:145
+#: inc-cl/sc.php:167 inc-cl/tr.php:212 inc-cl/vk.php:50 inc-cl/vk.php:98
+#: inc-cl/vk.php:118 inc-cl/xi.php:106 inc-cl/xi.php:178 inc-cl/xi.php:208
+#: inc-cl/xi.php:261 inc-cl/xi.php:266 inc-cl/xi.php:273 inc-cl/xi.php:297
+#: inc-cl/xi.php:302 inc-cl/xi.php:307
+msgid "Text Post"
+msgstr "Текст записи"
+
+#: inc-cl/fb.php:284 inc-cl/fb.php:399 inc-cl/gp.php:106 inc-cl/gp.php:165
+#: inc-cl/gp.php:184 inc-cl/li.php:276 inc-cl/li.php:345 inc-cl/li.php:374
+#: inc-cl/ok.php:26 inc-cl/ok.php:62 inc-cl/ok.php:83 inc-cl/sc.php:113
+#: inc-cl/sc.php:145 inc-cl/sc.php:167 inc-cl/vk.php:50 inc-cl/vk.php:98
+#: inc-cl/vk.php:118 inc-cl/xi.php:106 inc-cl/xi.php:178 inc-cl/xi.php:208
+#: inc-cl/xi.php:261 inc-cl/xi.php:266 inc-cl/xi.php:273 inc-cl/xi.php:297
+#: inc-cl/xi.php:302 inc-cl/xi.php:307
+msgid "just text message"
+msgstr "только текст сообщения"
+
+#: inc-cl/fb.php:400 inc-cl/gp.php:166 inc-cl/gp.php:185 inc-cl/li.php:278
+#: inc-cl/ok.php:27 inc-cl/ok.php:63 inc-cl/ok.php:84 inc-cl/sc.php:114
+#: inc-cl/vk.php:51 inc-cl/vk.php:99 inc-cl/vk.php:119 inc-cl/xi.php:179
+#: inc-cl/xi.php:267 inc-cl/xi.php:303
+msgid "Image Post"
+msgstr "Картинка записи"
+
+#: inc-cl/bg.php:119 inc-cl/bg.php:132 inc-cl/da.php:47 inc-cl/da.php:60
+#: inc-cl/di.php:51 inc-cl/di.php:61 inc-cl/fb.php:392 inc-cl/fl.php:105
+#: inc-cl/fl.php:116 inc-cl/gp.php:162 inc-cl/gp.php:178 inc-cl/ig.php:57
+#: inc-cl/ig.php:66 inc-cl/ip.php:45 inc-cl/ip.php:58 inc-cl/li.php:338
+#: inc-cl/li.php:366 inc-cl/lj.php:67 inc-cl/lj.php:80 inc-cl/ln.php:47
+#: inc-cl/ln.php:61 inc-cl/mc.php:48 inc-cl/mc.php:58 inc-cl/md.php:85
+#: inc-cl/md.php:96 inc-cl/ok.php:59 inc-cl/ok.php:77 inc-cl/pk.php:106
+#: inc-cl/pk.php:116 inc-cl/pn.php:108 inc-cl/pn.php:117 inc-cl/rd.php:90
+#: inc-cl/rd.php:107 inc-cl/sc.php:142 inc-cl/sc.php:161 inc-cl/su.php:54
+#: inc-cl/su.php:68 inc-cl/tg.php:48 inc-cl/tg.php:62 inc-cl/tr.php:182
+#: inc-cl/tr.php:208 inc-cl/tw.php:74 inc-cl/vb.php:63 inc-cl/vb.php:76
+#: inc-cl/vk.php:95 inc-cl/vk.php:112 inc-cl/wb.php:74 inc-cl/wb.php:88
+#: inc-cl/wp.php:55 inc-cl/wp.php:67 inc-cl/xi.php:276 inc-cl/xi.php:285
+#: inc-cl/yo.php:42 inc-cl/yo.php:51 inc-cl/yt.php:55 inc-cl/yt.php:64
+msgid "Message Format:"
+msgstr "Формат сообщения:"
+
+#: inc-cl/fb.php:400 inc-cl/gp.php:107 inc-cl/li.php:347 inc-cl/li.php:376
+#: inc-cl/sc.php:114 inc-cl/sc.php:146 inc-cl/sc.php:168 inc-cl/vk.php:51
+#: inc-cl/vk.php:99 inc-cl/vk.php:119
+msgid "big image with text message"
+msgstr "Большая картинка с текстом сообщения"
+
+#: inc-cl/fb.php:287
+msgid "Upload Images to"
+msgstr "Загрузить картинки в"
+
+#: inc-cl/fb.php:288
+msgid "App Album"
+msgstr "App Album"
+
+#: inc-cl/fb.php:290
+msgid "Timeline"
+msgstr "Timeline"
+
+#: inc-cl/vk.php:52
+msgid "Text Post with \"attached\" link"
+msgstr "текст записи с \"прикрепленной\" ссылкой"
+
+#: inc-cl/li.php:284
+msgid "Attachment Text Format"
+msgstr "Формат прикрепленного текста"
+
+#: inc-cl/li.php:286
+msgid "Recommended. Info from SEO Plugins will be used, then post excerpt, then post text"
+msgstr "Рекомендуется. Информация от SEO Plugins будет использована, затем цитата записи, и только после этого текст записи"
+
+#: inc-cl/fb.php:299
+msgid "Where to upload Images"
+msgstr "Куда загрузить картинки"
+
+#: inc-cl/fb.php:299
+msgid "(App Album)"
+msgstr "(App Album)"
+
+#: inc-cl/fb.php:299
+msgid "Facebook automatically creates an album for your app. Images will be grouped there as in any regular album."
+msgstr "Facebook автоматически создает альбом для вашего app. Картинки будут сгруппированы там как в любом другом альбоме. "
+
+#: inc-cl/fb.php:299
+msgid "(Timeline)"
+msgstr "(Timeline)"
+
+#: inc-cl/fb.php:299
+msgid "Images will be posted to the special \"Wall/Timeline\" album and won't be grouped. \"Wall/Timeline\" album must exist. It's created when first image posted to timeline manually."
+msgstr "Картинки будут размещены в специальный \"Wall/Timeline\" альбом и не будут сгруппированы. \"Wall/Timeline\"  должен существовать. Он создается, когда первая картинка размещается на timeline вручную. "
+
+#: inc/nxs_class_snap.php:223 inc/nxs_class_snap.php:1008 inc-cl/fb.php:300
+msgid "Two ways of attaching post on Facebook"
+msgstr "Два способа прикрепления записи к сообщению на Facebook"
+
+#: inc/nxs_class_snap.php:224 inc/nxs_class_snap.php:1009 inc-cl/fb.php:301
+#: inc-cl/fb.php:403
+msgid "Facebook Post Types"
+msgstr "Типы сообщений на Facebook"
+
+#: inc-cl/fb.php:232
+msgid "Your Facebook Account has been authorized."
+msgstr "Ваш Facebook аккаунт был авторизован. "
+
+#: inc-cl/fb.php:308 inc-cl/gp.php:119
+msgid "Facebook Comments:"
+msgstr "Facebook комментарии:"
+
+#: inc-cl/fb.php:310 inc-cl/gp.php:121
+msgid "Plugin could grab comments from Facebook and import them as Wordpress Comments"
+msgstr "Плагин может взять комментарии с Facebook и импортировать их как Wordpress Comments"
+
+#: inc-cl/fb.php:313 inc-cl/gp.php:124
+msgid "Import Facebook Comments"
+msgstr "Импорт Facebook комментариев"
+
+#: inc-cl/fb.php:317 inc-cl/gp.php:128 inc-cl/tw.php:41
+msgid "Auto-approve imported comments"
+msgstr "Авто-одобрение импортированных комментариев"
+
+#: inc-cl/fb.php:318 inc-cl/gp.php:129 inc-cl/tw.php:42
+msgid "Please activate the \"Comments Import\" from SNAP Settings Tab"
+msgstr "Пожалуйста, автивируйте \"импорт комментариев\"  из SNAP Settings Tab"
+
+#: inc-cl/fb.php:396 inc-cl/gp.php:164 inc-cl/gp.php:182 inc-cl/li.php:342
+#: inc-cl/li.php:372 inc-cl/ok.php:61 inc-cl/ok.php:81 inc-cl/rd.php:91
+#: inc-cl/rd.php:111 inc-cl/sc.php:144 inc-cl/sc.php:165 inc-cl/tr.php:210
+#: inc-cl/vk.php:96 inc-cl/vk.php:115 inc-cl/xi.php:260 inc-cl/xi.php:265
+#: inc-cl/xi.php:272 inc-cl/xi.php:291
+msgid "Post Type:"
+msgstr "Тип записи:"
+
+#: inc-cl/fb.php:401 inc-cl/gp.php:167 inc-cl/gp.php:186 inc-cl/li.php:348
+#: inc-cl/li.php:377 inc-cl/ok.php:64 inc-cl/ok.php:85 inc-cl/sc.php:147
+#: inc-cl/sc.php:169 inc-cl/vk.php:100 inc-cl/vk.php:120 inc-cl/xi.php:262
+#: inc-cl/xi.php:274 inc-cl/xi.php:298 inc-cl/xi.php:308
+msgid "Text Post with \"attached\" blogpost"
+msgstr "Текст записи с \"прикрепленной\" записи"
+
+#: inc-cl/gp.php:107
+msgid "Google+ Image Post"
+msgstr "Google+ картинка записи"
+
+#: inc-cl/gp.php:108
+msgid "Add blogpost to Google+ message as an attachment"
+msgstr "Добавить запись к  Google+ сообщению как прикрепление"
+
+#: inc-cl/gp.php:109
+msgid "Google+ Post Types"
+msgstr "Типы записей Google+"
+
+#: inc/nxs_class_ntlist.php:402
+msgid "Autopost has been schedulled for"
+msgstr "Авто-размещение было запланировано на"
+
+#: inc-cl/lj.php:39 inc-cl/vb.php:38
+msgid "Post with tags."
+msgstr "Разместить с тагами."
+
+#: inc-cl/gp.php:69 inc-cl/gp.php:85 inc-cl/gp.php:264 inc-cl/gp.php:275
+#: inc-cl/li.php:104 inc-cl/li.php:180
+msgid "Profile"
+msgstr "Профиль"
+
+#: inc-cl/li.php:236 inc-cl/xi.php:134
+msgid "Group"
+msgstr "Группа"
+
+#: inc-cl/li.php:347 inc-cl/li.php:376
+msgid "Post to LinkedIn as \"Image post\""
+msgstr "Опубликовать в LinkedIn как \"Сообщение Изображение"
+
+#: inc-cl/li.php:279
+msgid "Add blogpost to LinkedIn message as an attachment"
+msgstr "Добавить BlogPost в LinkedIn сообщении в качестве вложения"
+
+#: inc-cl/li.php:278
+msgid "big image with text message (Profiles and Company pages only)"
+msgstr "большое изображение с текстовым сообщением (профили и страницы компании только)"
+
+#: inc-cl/fp.php:61 inc-cl/st.php:45 inc-cl/st.php:54
+msgid "Comment Text Format:"
+msgstr "Комментарий Text Format:"
+
+#: inc/nxs_class_snap.php:721
+msgid "Your WP Cron is not working correctly."
+msgstr "Ваш WP Крон не работает должным образом."
+
+#: inc/nxs_class_snap.php:560
+msgid "How to separate hashtags"
+msgstr "Как отделить хештеги"
+
+#: inc-cl/fb.php:479 inc-cl/gp.php:253 inc-cl/tw.php:271
+msgid "%d comment has been imported."
+msgid_plural "%d comments has been imported."
+msgstr[0] "%d комментарий опубликован"
+msgstr[1] "%d комментария опубликовано"
+msgstr[2] "%d комментариев опубликовано"
+
+#: inc/nxs_class_snap.php:562
+msgid "Separate hashtags with "
+msgstr "Отделить хештеги при помощи"
+
+#: inc/nxs_class_snap.php:220
+msgid "Filters are \"ON\". Only selected categories/tags will be autoposted to this account. Click \"Show Settings->Advanced\" to change"
+msgstr "Фильтры \"ON\". Только выбранные категории/теги будут autoposted на этот аккаунт. Нажмите кнопку \"Показать Настройки-> Расширенные\" для изменения"
+
+#: inc/nxs_class_snap.php:261 inc/nxs_class_snap.php:746 inc-cl/wl.php:404
+msgid "Update Settings"
+msgstr "Сохранить настройки"
+
+#: inc/nxs_class_snap.php:726
+msgid "Please do not check this unless you absolutely sure that you know what are you doing."
+msgstr "Пожалуйста, отмечайте этот чекбокс ТОЛЬКО если вы абсолютно уверены в том, что вы делаете. "
+
+#: inc/nxs_class_snap.php:287 inc/nxs_class_snap.php:503
+msgid "Your WP Cron is not working correctly. This feature may not work properly, and might cause duplicate postings and stability problems.<br/> Please see the test results and recommendations here:"
+msgstr "Ваш WP Cron не работает должным образом. Когда эта функция не выполняется, это может привести к дублированию записей и проблемам со стабильностью.<br/> Пожалуйста, знакомьтесь с результатами тестов и рекомендациями здесь:"
+
+#: inc/nxs_class_snap.php:437
+msgid "Force Shortened Links"
+msgstr "Применить Укороченные Ссылки"
+
+#: inc/nxs_class_snap.php:704
+msgid "Some third party plugin break content filters. Check this if some networks do not post silently(without any errors in the log). This will make %EXCERPT% work as %RAWEXCERPT%, %FULLTEXT% as %RAWTEXT%, etc... "
+msgstr "Посторонний плагин ломает фильтры контента. Отметьте этот чекбокс, если некоторые сети не могут постить записи без проблем (без каких-либо ошибок в логе). Это заставит %EXCERPT% работать как % RAWEXCERPT%, %FULLTEXT%, % RAWTEXT%, и т.д. ..."
+
+#: inc/nxs_class_ntlist.php:130 inc/nxs_class_ntlist.php:133
+#: inc/nxs_class_snap.php:931
+msgid "Shorten URL"
+msgstr "Сократить URL"
+
+#: inc/nxs_class_snap.php:727
+msgid "Setting up WP Cron correctly will be much better solution:"
+msgstr "Гораздо лучшим решением будет настроить WP Крон правильно:"
+
+#: inc/nxs_class_snap.php:725
+msgid "I understand that this could cause duplicate postings as well as performance and stability problems."
+msgstr "Я понимаю, что это может привести к дублированию записей, а также привести к проблемам с производительностью и стабильностью системы."
+
+#: inc/nxs_class_snap.php:626
+msgid "Advanced Setting. Uncheck only if you are 100% sure that your images are valid or if you have troubles with image verification."
+msgstr "Дополнительные Настройки. Снимите флажок только если вы на 100% уверены, что ваши изображения соответсвуют требованиям или если у вас есть проблемы с проверкой изображений."
+
+#: inc-cl/5p.php:103 inc-cl/5p.php:122
+msgid "Select Category"
+msgstr "Выберите категории"

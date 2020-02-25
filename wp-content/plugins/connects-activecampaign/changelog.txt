@@ -1,0 +1,4 @@
+ver 1.0.0 - 
+- Initial Connects - Active Campaign Addon
+ver 1.0.1 - 10 March, 2016
+- Improvement: Updated auto update functionality

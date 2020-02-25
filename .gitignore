@@ -5,6 +5,7 @@ wp-content/uploads/*
 wp-content/cache/*
 wp-content/1plugins/*
 wp-content/2plugins/*
+wp-content/updraft/*
 .cache
 .htaccess
 robots.txt
