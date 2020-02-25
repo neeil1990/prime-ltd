@@ -1,7 +1,8 @@
 .idea
 wp-config.php
 wp-config-sample.php
-wp-content/uploads
+wp-content/uploads/*
+wp-content/cache/*
 .cache
 .htaccess
 robots.txt
