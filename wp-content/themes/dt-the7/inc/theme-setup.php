@@ -220,6 +220,7 @@ if ( ! function_exists( 'presscore_enable_theme_modules' ) ) :
 			'dev-tools',
 			'remove-customizer',
 			'custom-fonts',
+            'promotion'
 		);
 
 		$dashboard_settings = array(
